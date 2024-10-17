@@ -18,3 +18,4 @@ LYS Lab是一支专注于Web3领域投研、教育与量化交易的创新团队
 
 ![LYS Lab介绍初稿_03](https://cdn.jsdelivr.net/gh/zey9991/mdpic/LYS%20Lab%E4%BB%8B%E7%BB%8D%E5%88%9D%E7%A8%BF_03.png)
 
+![LYS Lab介绍初稿_09](https://cdn.jsdelivr.net/gh/zey9991/mdpic/LYS%20Lab%E4%BB%8B%E7%BB%8D%E5%88%9D%E7%A8%BF_09.png)
