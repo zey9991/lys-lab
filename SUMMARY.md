@@ -5,7 +5,7 @@
 ## Projects
 
 * [English Bootstrapping Camp](project/English.md)
-* [Airdrop Bootstrapping Camp](<README (1).md>)
+* [Airdrop Bootstrapping Camp](project/Airdrop.md)
 
 ## Research Reports
 
