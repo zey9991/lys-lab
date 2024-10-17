@@ -1,7 +1,5 @@
 # 13天TG活跃用户破百万—Piggy Piggy项目交互教程
 
-![](https://cdn.jsdelivr.net/gh/zey9991/mdpic/LYS Lab介绍初稿_00.png)
-
 Tags: 项目, 项目参与分析
 Publication Date: August 8, 2024
 
@@ -13,7 +11,7 @@ Publication Date: August 8, 2024
 
 **X：[@HeidiMarti54461](https://x.com/HeidiMarti54461)**
 
-![Untitled](13%E5%A4%A9TG%E6%B4%BB%E8%B7%83%E7%94%A8%E6%88%B7%E7%A0%B4%E7%99%BE%E4%B8%87%E2%80%94Piggy%20Piggy%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BA%92%E6%95%99%E7%A8%8B%20b5d8eb5757d14a6890e8869deafbda4a/Untitled.png)
+![](https://cdn.jsdelivr.net/gh/zey9991/mdpic/LYS Lab介绍初稿_00.png)
 
 # **前言：**
 
@@ -33,9 +31,9 @@ PiggyPiggy是一个关于猪的Telegram小游戏，需要通过完成简单的�
 
 **13天内收获了超100万活跃用户，目前官方TG社群拥有26万用户，用户基数大**
 
-![Untitled](13%E5%A4%A9TG%E6%B4%BB%E8%B7%83%E7%94%A8%E6%88%B7%E7%A0%B4%E7%99%BE%E4%B8%87%E2%80%94Piggy%20Piggy%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BA%92%E6%95%99%E7%A8%8B%20b5d8eb5757d14a6890e8869deafbda4a/Untitled%201.png)
+![Untitled](https://cdn.jsdelivr.net/gh/zey9991/mdpic/Untitled%201.png)
 
-![官方TG社区](13%E5%A4%A9TG%E6%B4%BB%E8%B7%83%E7%94%A8%E6%88%B7%E7%A0%B4%E7%99%BE%E4%B8%87%E2%80%94Piggy%20Piggy%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BA%92%E6%95%99%E7%A8%8B%20b5d8eb5757d14a6890e8869deafbda4a/Untitled%202.png)
+![官方TG社区](https://cdn.jsdelivr.net/gh/zey9991/mdpic/Untitled%202.png)
 
 官方TG社区
 
@@ -52,7 +50,7 @@ PiggyPiggy是一个关于猪的Telegram小游戏，需要通过完成简单的�
 
 Notcoin（$NOT）作为 TON 生态的代表性项目，此前成为币安新币挖矿项目并上线交易，此前**市值一度超过 20 亿美元**
 
-![Untitled](13%E5%A4%A9TG%E6%B4%BB%E8%B7%83%E7%94%A8%E6%88%B7%E7%A0%B4%E7%99%BE%E4%B8%87%E2%80%94Piggy%20Piggy%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BA%92%E6%95%99%E7%A8%8B%20b5d8eb5757d14a6890e8869deafbda4a/Untitled%203.png)
+![Untitled](https://cdn.jsdelivr.net/gh/zey9991/mdpic/Untitled%203.png)
 
 在Notcoin宣布上市之前，主要的游戏机制如下：
 
@@ -72,7 +70,7 @@ Notcoin（$NOT）作为 TON 生态的代表性项目，此前成为币安新币�
   
     玩家可以邀请好友加入游戏并赚取金币。例如，普通 Telegram 用户邀请一人即可获得 2,500 Notcoin 奖励。被邀请人的分数越高，获得的奖励越多。
     
-    ![Untitled](13%E5%A4%A9TG%E6%B4%BB%E8%B7%83%E7%94%A8%E6%88%B7%E7%A0%B4%E7%99%BE%E4%B8%87%E2%80%94Piggy%20Piggy%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BA%92%E6%95%99%E7%A8%8B%20b5d8eb5757d14a6890e8869deafbda4a/Untitled%204.png)
+    ![Untitled](https://cdn.jsdelivr.net/gh/zey9991/mdpic/Untitled%204.png)
     
 
 总结机制，Notcoin 的核心在于：**点击挖矿、道具(联赛)升级、好友邀请**等各种机制。
@@ -89,7 +87,7 @@ Notcoin（$NOT）作为 TON 生态的代表性项目，此前成为币安新币�
     
     每个工作有每日次数限制，每日 00:00 重置
     
-    ![Untitled](13%E5%A4%A9TG%E6%B4%BB%E8%B7%83%E7%94%A8%E6%88%B7%E7%A0%B4%E7%99%BE%E4%B8%87%E2%80%94Piggy%20Piggy%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BA%92%E6%95%99%E7%A8%8B%20b5d8eb5757d14a6890e8869deafbda4a/Untitled.jpeg)
+    ![Untitled](https://cdn.jsdelivr.net/gh/zey9991/mdpic/Untitled.jpeg)
     
     **道具升级：**游戏中有三种“角色”，每种角色每天可以得到的代币上限数量不同，升级角色可以来提高产出。
     
@@ -103,7 +101,7 @@ Notcoin（$NOT）作为 TON 生态的代表性项目，此前成为币安新币�
         
         老板：即将推出。
         
-        ![Untitled](13%E5%A4%A9TG%E6%B4%BB%E8%B7%83%E7%94%A8%E6%88%B7%E7%A0%B4%E7%99%BE%E4%B8%87%E2%80%94Piggy%20Piggy%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BA%92%E6%95%99%E7%A8%8B%20b5d8eb5757d14a6890e8869deafbda4a/Untitled%205.png)
+        ![Untitled](https://cdn.jsdelivr.net/gh/zey9991/mdpic/Untitled%205.png)
         
     
     **好友邀请：**
@@ -114,11 +112,11 @@ Notcoin（$NOT）作为 TON 生态的代表性项目，此前成为币安新币�
     | --- | --- | --- | --- | --- |
     | 代币奖励 | 50 $PPT | 300 $PPT | 800 $PPT | 1050 $PPT |
     
-    ![55BE349C1E9282C9EEC5D50BD33A1706.png](13%E5%A4%A9TG%E6%B4%BB%E8%B7%83%E7%94%A8%E6%88%B7%E7%A0%B4%E7%99%BE%E4%B8%87%E2%80%94Piggy%20Piggy%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BA%92%E6%95%99%E7%A8%8B%20b5d8eb5757d14a6890e8869deafbda4a/f22bd25c-6423-44f2-8179-62ae5a4eac5c.png)
+    ![55BE349C1E9282C9EEC5D50BD33A1706.png](https://cdn.jsdelivr.net/gh/zey9991/mdpic/f22bd25c-6423-44f2-8179-62ae5a4eac5c.png)
     
 - **创新模式：Rob抢劫模式**
   
-    ![Untitled](13%E5%A4%A9TG%E6%B4%BB%E8%B7%83%E7%94%A8%E6%88%B7%E7%A0%B4%E7%99%BE%E4%B8%87%E2%80%94Piggy%20Piggy%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BA%92%E6%95%99%E7%A8%8B%20b5d8eb5757d14a6890e8869deafbda4a/Untitled%201.jpeg)
+    ![Untitled](https://cdn.jsdelivr.net/gh/zey9991/mdpic/Untitled%201.jpeg)
     
     商店里购买劫掠卡，使用“抢劫”卡抢劫对手的 $PPT。抢劫是随机内容，是一种风险赚取。
     
@@ -135,7 +133,7 @@ Notcoin（$NOT）作为 TON 生态的代表性项目，此前成为币安新币�
 
 **目前：通过项目用户增长情况，以及社区反馈来分析，该游戏用户增速非常的快，且用户主要集中在海外，华语区相关动态较少，可以关注。**
 
-![Untitled](13%E5%A4%A9TG%E6%B4%BB%E8%B7%83%E7%94%A8%E6%88%B7%E7%A0%B4%E7%99%BE%E4%B8%87%E2%80%94Piggy%20Piggy%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BA%92%E6%95%99%E7%A8%8B%20b5d8eb5757d14a6890e8869deafbda4a/Untitled%206.png)
+![Untitled](https://cdn.jsdelivr.net/gh/zey9991/mdpic/Untitled%206.png)
 
 # **二、任务交互**
 
@@ -162,7 +160,7 @@ Notcoin（$NOT）作为 TON 生态的代表性项目，此前成为币安新币�
     简单的游戏介绍，以及劫掠卡的使用，只需要跟着箭头的指引即可
     
 
-![Untitled](13%E5%A4%A9TG%E6%B4%BB%E8%B7%83%E7%94%A8%E6%88%B7%E7%A0%B4%E7%99%BE%E4%B8%87%E2%80%94Piggy%20Piggy%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BA%92%E6%95%99%E7%A8%8B%20b5d8eb5757d14a6890e8869deafbda4a/Untitled%207.png)
+![Untitled](https://cdn.jsdelivr.net/gh/zey9991/mdpic/Untitled%207.png)
 
 1. **完成关注任务（一次性）**
    
@@ -170,7 +168,7 @@ Notcoin（$NOT）作为 TON 生态的代表性项目，此前成为币安新币�
     主要内容是关注官方TG社群，X账户；以及相关交易所的官方X账号
     
 
-![Untitled](13%E5%A4%A9TG%E6%B4%BB%E8%B7%83%E7%94%A8%E6%88%B7%E7%A0%B4%E7%99%BE%E4%B8%87%E2%80%94Piggy%20Piggy%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BA%92%E6%95%99%E7%A8%8B%20b5d8eb5757d14a6890e8869deafbda4a/b20e2af5-3c28-4122-9a42-76e8c260001d.png)
+![Untitled](https://cdn.jsdelivr.net/gh/zey9991/mdpic/b20e2af5-3c28-4122-9a42-76e8c260001d.png)
 
 1. **完成下方的每日任务**
    
@@ -191,12 +189,12 @@ Notcoin（$NOT）作为 TON 生态的代表性项目，此前成为币安新币�
     需要Tg钱包里有 $Ton 作为手续费
     （约0.004 TON）
     
-    ![Untitled](13%E5%A4%A9TG%E6%B4%BB%E8%B7%83%E7%94%A8%E6%88%B7%E7%A0%B4%E7%99%BE%E4%B8%87%E2%80%94Piggy%20Piggy%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BA%92%E6%95%99%E7%A8%8B%20b5d8eb5757d14a6890e8869deafbda4a/Untitled%208.png)
+    ![Untitled](https://cdn.jsdelivr.net/gh/zey9991/mdpic/Untitled%208.png)
     
 
-![Untitled](13%E5%A4%A9TG%E6%B4%BB%E8%B7%83%E7%94%A8%E6%88%B7%E7%A0%B4%E7%99%BE%E4%B8%87%E2%80%94Piggy%20Piggy%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BA%92%E6%95%99%E7%A8%8B%20b5d8eb5757d14a6890e8869deafbda4a/Untitled%209.png)
+![Untitled](https://cdn.jsdelivr.net/gh/zey9991/mdpic/Untitled%209.png)
 
-![Untitled](13%E5%A4%A9TG%E6%B4%BB%E8%B7%83%E7%94%A8%E6%88%B7%E7%A0%B4%E7%99%BE%E4%B8%87%E2%80%94Piggy%20Piggy%E9%A1%B9%E7%9B%AE%E4%BA%A4%E4%BA%92%E6%95%99%E7%A8%8B%20b5d8eb5757d14a6890e8869deafbda4a/Untitled%2010.png)
+![Untitled](https://cdn.jsdelivr.net/gh/zey9991/mdpic/Untitled%2010.png)
 
 # **三、风险提示**
 
