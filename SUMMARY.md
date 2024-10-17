@@ -9,13 +9,13 @@
 
 ## Research Reports
 
-* [2409-Monad](research_report/2409-monad.md)
-* [2408-Xterio](research_report/2408-xterio.md)
-* [2408-eOracle](research_report/2408-eoracle.md)
-* [2408-Witness Chain](research_report/2408-witness-chain.md)
-* [2408-GM Network](research_report/2408-gm-network.md)
-* [2408-PiggyPiggy](research_report/2408-piggypiggy.md)
-* [2407-Symbiotic](research_report/2407-symbiotic.md)
+* [2409-Monad](research_report/2409-Monad/README.md)
+* [2408-Xterio](research_report/2408-Xterio/README.md)
+* [2408-eOracle](research_report/2408-eOracle/README.md)
+* [2408-Witness Chain](<research_report/2408-Witness chain/README.md>)
+* [2408-GM Network](<research_report/2408-GM network/README.md>)
+* [2408-PiggyPiggy](research_report/2408-PiggyPiggy/README.md)
+* [2407-Symbiotic](research_report/2407-Symbiotic/README.md)
 
 ## Media Kits
 
