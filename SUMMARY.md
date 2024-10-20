@@ -17,6 +17,6 @@
 * [2408-PiggyPiggy](research\_report/2408-PiggyPiggy/README.md)
 * [2407-Symbiotic](research\_report/2407-Symbiotic/README.md)
 
-## Media Kits
+## Media Kit
 
-* [Logos & QR Codes](media-kits/logos.md)
+* [Logos & QR Codes](media-kit/logos.md)
