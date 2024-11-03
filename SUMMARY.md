@@ -4,8 +4,9 @@
 
 ## Projects
 
-* [English Bootstrapping Camp](project/English.md)
-* [Airdrop Bootstrapping Camp](project/Airdrop.md)
+* [英语提高课](project/English.md)
+* [空投训练营](project/Airdrop.md)
+* [书与我之间](project/Book.md)
 
 ## Research Reports
 
