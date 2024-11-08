@@ -2,9 +2,7 @@
 
 凌岳空投训练营是LYS Lab发起的一个公益性空投撸毛共学社区，自2024年5月启动以来在两个月内发展了超过3000名学员。
 
-- 优质学习资源：LYS Lab精心原创的空投撸毛全套教学视频，总播放量破10万，点击速看：
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1154487516&bvid=BV1vZ421x7NH&cid=1542342376&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+- 优质学习资源：LYS Lab精心原创的空投撸毛全套教学视频，总播放量破10万，点击速看：[如何获取最新空投信息？空投大佬给你推荐趁手工具！空投训练营第二课回放第一部分来辣 _哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1vZ421x7NH/?vd_source=fd015ccdec6337c64cc98064986a4512)
 
 - 知识共产主义：早期学员学成后担任社群管理员和志愿者，空投教程信息已经实现互帮互助，自给自足
 
