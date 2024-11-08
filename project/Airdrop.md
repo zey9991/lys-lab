@@ -4,7 +4,7 @@
 
 - 优质学习资源：LYS Lab精心原创的空投撸毛全套教学视频，总播放量破10万，点击速看：
 
-  {% embed url="https://www.bilibili.com/video/BV1vZ421x7NH/" %}
+{% embed url="https://www.bilibili.com/video/BV1vZ421x7NH/" %}
 
 - 知识共产主义：早期学员学成后担任社群管理员和志愿者，空投教程信息已经实现互帮互助，自给自足
 
