@@ -213,3 +213,5 @@ Notcoin（$NOT）作为 TON 生态的代表性项目，此前成为币安新币�
 4.[https://t.me/PiggyPiggyofficialbot](https://t.me/PiggyPiggyofficialbot)
 
 5.[https://x.com/impalementd/status/1819348369837642081](https://x.com/impalementd/status/1819348369837642081)
+
+![](https://cdn.jsdelivr.net/gh/zey9991/mdpic/LYS%20Lab%E4%BB%8B%E7%BB%8D%E5%88%9D%E7%A8%BF_09.png)

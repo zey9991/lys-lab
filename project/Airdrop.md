@@ -1,4 +1,4 @@
-![LYS Lab品牌形象_00](https://cdn.jsdelivr.net/gh/zey9991/mdpic/202409301525035.png)
+![](https://cdn.jsdelivr.net/gh/zey9991/mdpic/202409301525035.png)
 
 凌岳空投训练营是LYS Lab发起的一个公益性空投撸毛共学社区，自2024年5月启动以来在两个月内发展了超过3000名学员。
 
@@ -12,4 +12,4 @@
 
 授人以鱼不如授人以渔，一级市场的精彩应当由你我共建共享！
 
-![LYS Lab介绍初稿_09](https://cdn.jsdelivr.net/gh/zey9991/mdpic/LYS%20Lab%E4%BB%8B%E7%BB%8D%E5%88%9D%E7%A8%BF_09.png)
+![](https://cdn.jsdelivr.net/gh/zey9991/mdpic/LYS%20Lab%E4%BB%8B%E7%BB%8D%E5%88%9D%E7%A8%BF_09.png)
