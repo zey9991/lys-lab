@@ -10,6 +10,7 @@
 
 ## Research Reports
 
+* [2411-ReflectionAI](research\_report/2411-ReflectionAI/README.md)
 * [2409-Monad](research\_report/2409-Monad/README.md)
 * [2408-Xterio](research\_report/2408-Xterio/README.md)
 * [2408-eOracle](research\_report/2408-eOracle/README.md)
