@@ -1,4 +1,4 @@
-Comment under X and check in with me!!!🥰From [@coachshane](https://x.com/coachshane) Daily English Dictation.
+Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachshane) Daily English Dictation.
 
 ## 2024.11.19
 
