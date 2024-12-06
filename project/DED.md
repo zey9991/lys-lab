@@ -7,10 +7,6 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 | Correct Ver. | Stop it! Stop what? You are talking about me in Morse code. **But** You know what? **Joke's on** you **cuz** I know Morse code. Ha! |
 | My Ver.      | Stop it! Stop what? You are talking about me in Morse code. You know what? Joseph and you and I know Morse code. Ha! |
 
-- conquistador/ kɑːŋˈkiːstədɔːr / *n.*征服者；西班牙征服者
-- gulf是海湾，golf是高尔夫
-- Mexic**o** 墨西哥
-
 ## 2024.12.5
 
 |              | [Daily English Dictation 67](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=67) |
