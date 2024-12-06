@@ -4,7 +4,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 
 |              | [Daily English Dictation 68](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=68) |
 | ------------ | ------------------------------------------------------------ |
-| Correct Ver. | Stop it! Stop what? You are talking about me in Morse code. **But** You know what? **Joke's on** you **cuz** I know Morse code. Ha! |
+| Correct Ver. | Stop it! Stop what? You are talking about me in Morse code. **But** You know what? **Joke's on** you **cuz** I know Morse code. |
 | My Ver.      | Stop it! Stop what? You are talking about me in Morse code. You know what? Joseph and you and I know Morse code. Ha! |
 
 ## 2024.12.5
