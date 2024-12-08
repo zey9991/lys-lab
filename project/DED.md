@@ -1,5 +1,24 @@
 Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachshane) Daily English Dictation.
 
+## 2024.12.8
+
+|              | [Daily English Dictation 70](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=70) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | People **born** on February 29th on some previously **leap year** also known as leaplings. They finally **get to** celebrate their real birthday! |
+| My Ver.      | People bornt on February 29th on some previously b??? also are known as leaplings. They finally??? celebrate their real birthdays. |
+
+- bear 过去式bore或beared 过去分词borne或born或beared
+- burn 过去式burnt或burned过去分词burnt或burned
+
+## 2024.12.7
+
+|              | [Daily English Dictation 69](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=69) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | American **E**lectric **P**ower is currently below its **fifty-day** moving average of **$40.28** and below **its** **200-day** MA of **$38.53**. |
+| My Ver.      | American electric power is currently below its fifty days' moving average of 40 dollars and 28% and below 200 days MA of 38 dollars and 30%. |
+
+- 40 dollars and 28 cents (not percent)
+
 ## 2024.12.6
 
 |              | [Daily English Dictation 68](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=68) |

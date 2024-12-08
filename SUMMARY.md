@@ -11,6 +11,7 @@
 
 ## Research Reports
 
+* [2412-XRP](research\_report/2412-XRP/README.md)
 * [2411-DeSci](research\_report/2411-DeSci/README.md)
 * [2411-ReflectionAI](research\_report/2411-ReflectionAI/README.md)
 * [2409-Monad](research\_report/2409-Monad/README.md)
