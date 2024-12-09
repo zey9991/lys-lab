@@ -1,5 +1,15 @@
 Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachshane) Daily English Dictation.
 
+## 2024.12.9
+
+|              | [Daily English Dictation 71](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=71) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | You can essentially opt out **of** the new policy by manually deleting your Google web history or by simply not signing in to sites like Gmail when searching on Google. |
+| My Ver.      | You can essentially opt out the new policy by manually deleting your Google web history or by simply not signing in to sites like Gmail when searching on Google. |
+
+- opt/ ɑːpt / out of 选择退出：选择不参与或退出某项活动、计划或协议。
+- essentially: ~basically
+
 ## 2024.12.8
 
 |              | [Daily English Dictation 70](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=70) |
