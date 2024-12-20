@@ -1,5 +1,118 @@
 Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachshane) Daily English Dictation.
 
+## 2024.12.20
+
+|              | [Daily English Dictation 80](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=80) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | You know, most people think that the world is getting worse, **that** the **life** of **their** children **is gonna** be less than they **had**. But the fact **of the matter** is, the world is getting better **at an** extraordinary **rate**. |
+| My Ver.      | You know, most people think that the world is getting worse, the lives of children can be less they have. But the fact here is the world is getting extraordinary great. |
+
+- 如果在谈论**整体的生活或生命状态、未来趋势等**，用不可数的“life”：
+  - Life is short.（生命是短暂的。）
+  - Life goes on.（生活继续。）
+- 如果是在谈论**具体的个体生命**或**复数的生命/生活**，用“life”或“lives”：
+  - One life, two lives.（一个生命，两个生命。）
+  - Their lives were changed forever.（他们的生活被永久改变了。）
+
+这个区分的关键在于你是抽象地谈论“生命/生活”，还是具体地指一个或多个生命体或生活方式。
+
+- The fact of the matter 事实真相：指某件事情的真实情况或真相。
+
+## 2024.12.19
+
+|              | [Daily English Dictation 80](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=80) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | Dr.Emoto has conducted another interesting experiment. He placed rice into 3 glass **beakers** and cover**ed** it with water. And then every day **for** a month he said "thank you" to the one beaker, "you are **an** idiot" to the second, and the third one he completely ignored. |
+| My Ver.      | Dr.Emmota has conducted another interesting experiment. He placed rice into 3 glass begaer??? and cover it with water and then every day from a month he said "thank you" to the one begaer, "you are idiot" to the second, and the third one he completely ignored. |
+
+- beaker/ ˈbiːkər / *n.*烧杯；大口杯
+
+## 2024.12.18
+
+|              | [Daily English Dictation 80](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=80) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | Olive**s are** the gold **in Andalucia**. **Spain is** the world'**s** biggest **olive** oil producer and Andalucia accounts for 80% of Spanish oil. |
+| My Ver.      | Olive of the gold underneath Indianesia??? the world biggest oil producer and Indianesia accounts for 80% of Spanish oil. |
+
+## 2024.12.17
+
+|              | [Daily English Dictation 79](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=79) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | Stand **firm for** what you believe **in** until and **unless** logic and experience prove you wrong. Remember, when the emperor looks naked, the emperor is naked. The truth and **a lie** are not sort of the same thing. |
+| My Ver.      | Stand from what you believe then until and less logic and experience prove you wrong. Remember when the emperor looks naked, the emperor is naked. The truth and the liars are not sort of the same thing. |
+
+- stand firm 坚定立场：拒绝改变决定、立场等。
+
+## 2024.12.16
+
+|              | [Daily English Dictation 78](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=78) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | **Call Jeff and** tell **him** about this. <br />No, wait. Wait, what time is it? <br />It's 10:20. <br />10:00 is **the** **cut-off** time you don't **call people after 10:00**.<br /> No, no no. The cut-off time is 10:30.<br />10:00, you don't **call after** 10:00. <br />No, no, 10:30. |
+| My Ver.      | Kojak?? tell about this. Wait wait, what time is it? It's 10:20. 10:00 is cut off time you don't copy that. No,no no. The cut off time is 10:30. 10:00, you don't recall, it's 10:00. No, no, 10:30. |
+
+- cut off time 截止时间：指某项活动或任务必须在特定时间之前完成的时间点。
+
+## 2024.12.15
+
+|              | [Daily English Dictation 77](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=77) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | Next **we** enter the White Desert where from a distance the **limestone** looks like snow and rock piles like icebergs. |
+| My Ver.      | Next week??? enter the white desert where from a distance the white stone looks like snow and rock piles like icebergs. |
+
+- limestone/ ˈlaɪmstoʊn / *n.*[岩] 石灰岩
+
+## 2024.12.14
+
+|              | [Daily English Dictation 76](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=76) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | 24-hours access to cupcake--it's a **nightmare** for dieters but this **vending** concept is an advantage for **Sprinkles** when it comes to cupcake competition. |
+| My Ver.      | 24 hours access to cupcake is a nightmire for dieters but this banding concept is an advantage for springco??? when it comes to cupcake competition. |
+
+- nightmare/ ˈnaɪtmer /
+- vend/ vend / [V]to sell or be sold 出售
+- vending machine 自动贩卖机，自动售货机
+- vending concept means business idea
+- Sprinkle/ ˈsprɪŋk(ə)l / the name of the cupcake shop
+
+## 2024.12.13
+
+|              | [Daily English Dictation 75](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=75) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | See **you at** the seahawks' 12k, 5k run/walk and **Kids Dash** April first. |
+| My Ver.      | See and the seahawk 12k 5k run walk and engage that in April first. |
+
+- dash/ dæʃ / *n.*<美>短跑
+- Seahawks 海鹰队（西雅图美式足球球队）
+- seahawk *n.*海鹰，美国海鹰直升机
+
+## 2024.12.12
+
+|              | [Daily English Dictation 74](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=74) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | 5.4 million children, children who are 8,9 and 10 years of age, who are **using**--are being used to mine with their bare hands. So you can **text and** play Angry Birds. |
+| My Ver.      | 5.4 million children who are 8,9 and 10 years of age, who are used, are being used to mine with their bare hands. So you can tax in play Angry Birds. |
+
+## 2024.12.11
+
+|              | [Daily English Dictation 73](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=73) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | I'**ve** accomplished more **in** my life **than** I'**ve** ever thought possible. |
+| My Ver.      | I have accomplishments more than my life that I never thought possible. |
+
+- ever [ADV]You use **ever** after comparatives and superlatives to emphasize the degree to which something is true or when you are comparing a present situation with the past or the future. 以往任何时候 (用于形容词或副词的比较级和最高级之后)强调
+
+## 2024.12.10
+
+|              | [Daily English Dictation 72](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=72) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | Everyone who comes into our shop tells us "you have the perfect life" and we say, "yeah you know what, we do, we really do". They go handy camp???, bought some chocolates. |
+| My Ver.      | Everyone who comes into our shop tells us you have the perfect life and we say yeah, you know what, we do, we really do. They go **hand in hand** -- **books and** chocolates. |
+
+- go hand in hand
+  - Poverty and poor health often **go** **hand** **in** **hand**.
+  - For us, research and teaching **go** **hand** **in** **hand**.
+  - Friendship and kindness **go** **hand** **in** **hand**.
+
 ## 2024.12.9
 
 |              | [Daily English Dictation 71](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=71) |
