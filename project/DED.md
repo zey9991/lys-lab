@@ -1,8 +1,17 @@
 Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachshane) Daily English Dictation.
 
+## 2024.12.21
+
+|              | [Daily English Dictation 83](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=83) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | In a city **full of showy sights**, these are more humble creations  standing by until that stretch **in** March **and** April when it is time to blossom. |
+| My Ver.      | In a city for a show in size these are more humble creations. Standing by until that stretch March, April when it is time to blossom. |
+
+- showy *adj*.显眼的，艳丽的；昂贵但俗气的
+
 ## 2024.12.20
 
-|              | [Daily English Dictation 80](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=80) |
+|              | [Daily English Dictation 82](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=82) |
 | ------------ | ------------------------------------------------------------ |
 | Correct Ver. | You know, most people think that the world is getting worse, **that** the **life** of **their** children **is gonna** be less than they **had**. But the fact **of the matter** is, the world is getting better **at an** extraordinary **rate**. |
 | My Ver.      | You know, most people think that the world is getting worse, the lives of children can be less they have. But the fact here is the world is getting extraordinary great. |
@@ -20,12 +29,12 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 
 ## 2024.12.19
 
-|              | [Daily English Dictation 80](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=80) |
+|              | [Daily English Dictation 81](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=81) |
 | ------------ | ------------------------------------------------------------ |
 | Correct Ver. | Dr.Emoto has conducted another interesting experiment. He placed rice into 3 glass **beakers** and cover**ed** it with water. And then every day **for** a month he said "thank you" to the one beaker, "you are **an** idiot" to the second, and the third one he completely ignored. |
 | My Ver.      | Dr.Emmota has conducted another interesting experiment. He placed rice into 3 glass begaer??? and cover it with water and then every day from a month he said "thank you" to the one begaer, "you are idiot" to the second, and the third one he completely ignored. |
 
-- beaker/ ˈbiːkər / *n.*烧杯；大口杯
+- beaker/ ˈbiːkər / *n*.烧杯；大口杯
 
 ## 2024.12.18
 
@@ -59,7 +68,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 | Correct Ver. | Next **we** enter the White Desert where from a distance the **limestone** looks like snow and rock piles like icebergs. |
 | My Ver.      | Next week??? enter the white desert where from a distance the white stone looks like snow and rock piles like icebergs. |
 
-- limestone/ ˈlaɪmstoʊn / *n.*[岩] 石灰岩
+- limestone/ ˈlaɪmstoʊn / *n*.[岩] 石灰岩
 
 ## 2024.12.14
 
@@ -81,9 +90,9 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 | Correct Ver. | See **you at** the seahawks' 12k, 5k run/walk and **Kids Dash** April first. |
 | My Ver.      | See and the seahawk 12k 5k run walk and engage that in April first. |
 
-- dash/ dæʃ / *n.*<美>短跑
+- dash/ dæʃ / *n*.<美>短跑
 - Seahawks 海鹰队（西雅图美式足球球队）
-- seahawk *n.*海鹰，美国海鹰直升机
+- seahawk *n*.海鹰，美国海鹰直升机
 
 ## 2024.12.12
 
@@ -156,7 +165,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 | Correct Ver. | History is amazing. **What took** thousands of years to develop  as great civilizations, (but it only) **took** a **flash** **to** change. When Hernando Cortez and 550 men landed on the Gulf of **Mexico** in 1519, it took only a couple of years to forever change the land that is now Mexico. |
 | My Ver.      | History is amazing. It takes??? thousands of years to develop  as great civilization to a flush change. When henantor??? court test and 550 men landed on the golf of Mexica in 1519, it took only a couple of years to forever change the land that is now Mexica. |
 
-- conquistador/ kɑːŋˈkiːstədɔːr / *n.*征服者；西班牙征服者
+- conquistador/ kɑːŋˈkiːstədɔːr / *n*.征服者；西班牙征服者
 - gulf是海湾，golf是高尔夫
 - Mexic**o** 墨西哥
 
@@ -178,7 +187,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 | My Ver.      | February 18, 1885, Mark Twin, the eventual??? of the Huck Berry thing, one of the greatest American novels is first published in the United States. |
 
 - Huckleberry Finn 费恩历险记（书名）
-- adventure/ ədˈventʃər / *n.*冒险（经历），奇遇；冒险的刺激，冒险欲
+- adventure/ ədˈventʃər / *n*.冒险（经历），奇遇；冒险的刺激，冒险欲
 
 ## 2024.12.2
 
@@ -198,7 +207,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 | Correct Ver. | There are places I remember. **All** my life, **though** some have changed. Some forever, not for better. Some have gone, and some remain. All these places **had** their moments. **With lovers and** friends, I still can recall. Some are dead and some are **living**. In my life, I'**ve** love**d** them all. |
 | My Ver.      | There're places I remembered on my life those some have changed. Some are forever not for better, some have gone and some remain. All these places have their moments, when laughing with friends, I still can recall. Some are dead and some are leaving. In my life, I love them all. |
 
-- succumb / səˈkʌm / *v.*屈服，屈从；病情加重，死于（某疾病）
+- succumb / səˈkʌm / *v*.屈服，屈从；病情加重，死于（某疾病）
 
 ## 2024.11.30
 
@@ -226,8 +235,8 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 | Correct Ver. | February 9, 1964, **Beatlemania** **hits** primetime in the United States. |
 | My Ver.      | Febuary 9, 1964, Beatles mediated??? its prime time in United States. |
 
-- mania/ ˈmeɪniə / *n.*狂热，热衷；躁狂症
-- primetime *n.*黄金时段（晚间电视收视高峰期）
+- mania/ ˈmeɪniə / *n*.狂热，热衷；躁狂症
+- primetime *n*.黄金时段（晚间电视收视高峰期）
 - February/ ˈfebrueri / --> say it fast sounds like Feburary
 
 ## 2024.11.28
@@ -238,11 +247,11 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 | My Ver.      | It's snowing. It's beautiful at the middle and, you know, I am freezing. And I was??? pulled by 8 dogs in the torbagan. And really, it doesnt get much more remount??? than this. |
 
 - "we're" pronounces like "were"
-- vermont/ vərˈmɑːnt / *n.*佛蒙特州（美国州名，略作 VT）
-- toboggan/ təˈbɑːɡən / *n.*平底雪橇
-- sleigh/ sleɪ / *n.*雪橇
+- vermont/ vərˈmɑːnt / *n*.佛蒙特州（美国州名，略作 VT）
+- toboggan/ təˈbɑːɡən / *n*.平底雪橇
+- sleigh/ sleɪ / *n*.雪橇
 - freezing 感觉受冻的 E.g. "You must be freezing," she said.
-- epitome/ ɪˈpɪtəmi / *n.*典型，缩影；摘要，概要
+- epitome/ ɪˈpɪtəmi / *n*.典型，缩影；摘要，概要
 
 ## 2024.11.27
 
@@ -251,7 +260,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 | Correct Ver. | This iceberg here, there's **outcroppings** under the water. And uh, sea ice, iceberg ice is very hard, so it's almost like, it could almost be like a **can opener**. And when probably Titanic went by it, it just slice**d** **a hole in it like you would with a munual** can opener. |
 | My Ver.      | Those icebergs here. They are aircrafting??? under the water. And see, see ice, icebergs are very hard so it's almost like, it's could be almost a cannon??? and when probably Titanic went by it, it just slice??? the 9 year-old connon. |
 
-- outcropping/ ˈaʊt.krɑːpɪŋ / *n.*出露地表；露出；露头
+- outcropping/ ˈaʊt.krɑːpɪŋ / *n*.出露地表；露出；露头
 - can opener 开罐器
 - manual/ ˈmænjuəl /
 
@@ -262,7 +271,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 | Correct Ver. | Hey Lilith, sorry for the holdup,but Frasier should be back from the dentist any minute. Oh, alright. That'll give us a chance to visit. |
 | My Ver.      | Hey Lily! Sorry to the hope??? that but first ??? for a minute. Oh, alright. I'll give a chance to visit. |
 
-- holdup/ ˈhoʊldʌp / *n.* 延搁 A **holdup** is a delay. 
+- holdup/ ˈhoʊldʌp / *n*. 延搁 A **holdup** is a delay. 
 - "visit" there ~chat/talk
 
 ## 2024.11.25
@@ -272,14 +281,14 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 | Correct Ver. | It'**s** surely **in the** running for one of the most expensive **pile-ups** **in** highway history. **These** **crumpled** Ferraris were **among** 8 involved in the **crash**. The **airbags** may have saved those inside **from** serious injury, but oh~ what damage may have been done to **bruise the spirits** of these **enthusiasts** attached to the **sleek sports** cars. |
 | My Ver.      | It surely running for one of the most expensive pilots since highway history. This crumble Farraris were around 8 involved in the crush and anerback??? may have saved those inside with serious injury but barely damage done on the enthusiam??? attached to the 6 onboard??? cars. |
 
-- pile-up/ ˈpaɪl ʌp / *n.*连环车祸；混乱人堆；堆积，累积
+- pile-up/ ˈpaɪl ʌp / *n*.连环车祸；混乱人堆；堆积，累积
 - in the running 有潜力或有价值被考虑；仍有资格和能力获胜
-- bruise/ bruːz / *v.*打击，挫伤；压碎，碾碎；使青肿，使出现伤痕；碰伤（水果）
-- sleek/ sliːk / *adj.*光滑的，光亮的；线条流畅的，造型优美的
-- crumple/ ˈkrʌmp(ə)l / *v.* 弄皱；使一蹶不振 *n.*皱纹；褶皱
-- crumble/ ˈkrʌmb(ə)l / *v.*崩裂，坍塌；（使）粉碎，（使）成碎屑；瓦解，崩溃；不再抵抗，无力应付
-- crash *v.*撞车，坠毁；猛撞，发出巨响 *n.*撞车事故，失事；巨响，碰撞声
-- crush/ krʌʃ / *v.*压坏，挤压变形；捣碎，碾成粉末 *n.*拥挤的人群；（对某人短暂的）热恋，迷恋；迷恋对象 
+- bruise/ bruːz / *v*.打击，挫伤；压碎，碾碎；使青肿，使出现伤痕；碰伤（水果）
+- sleek/ sliːk / *adj*.光滑的，光亮的；线条流畅的，造型优美的
+- crumple/ ˈkrʌmp(ə)l / *v*. 弄皱；使一蹶不振 *n*.皱纹；褶皱
+- crumble/ ˈkrʌmb(ə)l / *v*.崩裂，坍塌；（使）粉碎，（使）成碎屑；瓦解，崩溃；不再抵抗，无力应付
+- crash *v*.撞车，坠毁；猛撞，发出巨响 *n*.撞车事故，失事；巨响，碰撞声
+- crush/ krʌʃ / *v*.压坏，挤压变形；捣碎，碾成粉末 *n*.拥挤的人群；（对某人短暂的）热恋，迷恋；迷恋对象 
 
 | **对比点**   | **crush**                            | **crash**                                                    |
 | ------------ | ------------------------------------ | ------------------------------------------------------------ |
@@ -312,11 +321,11 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 | Correct Ver. | A **Georgia** mother **says** she was arrested for allowing her **ten-year-old** son to get a **tattoo** in memory of his late brother. We **hoped** they **could** find something that **would** sustain **them** through that loss, but this is not the way. |
 | My Ver.      | A Geoge's mother said she was arrested for allowing her ten-years-old son to get a tatto in memory of his late brother. We hope they can find something that sustain through that loss, but this is not the way. |
 
-- George / dʒɔːrdʒ / *n.*乔治（男子名）
-- Georgia/ ˈdʒɔːrdʒə / *n.*乔治亚州
-- tattoo/ tæˈtuː / *n.*文身
-- late *adj.* 已故的
-- conundrum/ kəˈnʌndrəm / *n.*令人迷惑的难题；（尤指答案中含双关语的）谜语
+- George / dʒɔːrdʒ / *n*.乔治（男子名）
+- Georgia/ ˈdʒɔːrdʒə / *n*.乔治亚州
+- tattoo/ tæˈtuː / *n*.文身
+- late *adj*. 已故的
+- conundrum/ kəˈnʌndrəm / *n*.令人迷惑的难题；（尤指答案中含双关语的）谜语
 
 ## 2024.11.22
 
@@ -335,7 +344,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 | My Ver.      | Anti pairosy??? legislation under consideration in Washington has some websites in the tizi??? Wikipedia and web??? have added it say now  there are none of it blocked out from our website on Wednesday. |
 
 - piracy/ ˈpaɪrəsi / 盗版，非法复制（或销售）
-- tizzy/ ˈtɪzi / *n.*紧张，慌张，慌乱；极度激动狂乱的心情
+- tizzy/ ˈtɪzi / *n*.紧张，慌张，慌乱；极度激动狂乱的心情
 - in a tizzy --> angry, not used often
 - have none of 拒绝接受、同意或支持某事：指对某事物持否定态度，不接受、同意或支持。
 
@@ -346,11 +355,11 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 | Correct Ver. | Martin Luther King, Jn'**s rise as civil rights leader began in** 1955, when he **spearheaded** the drive to desegregate the public bus**es** in **Montgomery**, Alabama. |
 | My Ver.      | Martin Luther King junior arrives as a superwif??? later begining at 1955, when he spear??? heated the drive to desegregate the public bus and mon gree in Alabama. |
 
-- Junior *n.*（非正式）小（用于对某人儿子的昵称或称呼方式）
+- Junior *n*.（非正式）小（用于对某人儿子的昵称或称呼方式）
 - civil rights/ ˌsɪvl ˈraɪts /
-- spearhead/ ˈspɪrhed / *n.*矛头；先锋；先锋部队 *vt.*带头；做先锋
+- spearhead/ ˈspɪrhed / *n*.矛头；先锋；先锋部队 *vt*.带头；做先锋
 - drive [N-SING]A **drive** is a special effort made by a group of people for a particular purpose. 运动
-- Montgomery/ məntˈɡʌməri / *n.*蒙哥马利（姓氏）；蒙哥马利（英国郡名）
+- Montgomery/ məntˈɡʌməri / *n*.蒙哥马利（姓氏）；蒙哥马利（英国郡名）
 
 ## 2024.11.19
 
