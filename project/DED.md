@@ -1,5 +1,88 @@
 Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachshane) Daily English Dictation.
 
+## 2024.12.28
+
+|              | [Daily English Dictation 90](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=90) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | 1896 the first modern Oly**m**pic Game open  in **Athens**, Greece -- **land of** the ancient games -- **with** athletes **from** 14 countries. |
+| My Ver.      | The lab i think is the real crack of this issue.             |
+
+- Olympics / əˌlɪmpɪks / *n.*奥林匹克运动会
+- Olympic Games 奥林匹克运动会
+- Olympic *adj.*奥林匹克运动会的；古奥林匹亚的
+- Athens / ˈæθənz / *n.*雅典（希腊首都）
+
+## 2024.12.27
+
+|              | [Daily English Dictation 89](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=89) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | April 4: The day to show compassion, care and **act** for stray animals all around the world. |
+| My Ver.      | April 4 the day to show compassion, care and ??? for stray animals all around the world. |
+
+- stray / streɪ / *v.*走失，迷路；走神，离题；*n.*走失（流浪）的动物；离群者，走散者；*adj.*（动物）走失的，流浪的；离散的，零落的；
+- compassion  *n.*同情，怜悯
+
+## 2024.12.26
+
+|              | [Daily English Dictation 88](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=88) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | These are not the dune**s** **of** the Sahara. In fact they are found beyond the **arctic** circle in the **permafrost** of the Russia'**s** north. |
+| My Ver.      | These are not the dune in the Sahara. In fact they are found beyond the artic circle in the pemeforst??? of the Russia north. |
+
+- Arctic Circle 北极圈
+- arctic/ ˈɑːrktɪk / 
+  artistic/ ɑːrˈtɪstɪk / 
+  article / ˈɑːrtɪk(ə)l /
+- permafrost / ˈpɜːrməfrɔːst / *n.*多年冻土；永久冻结带；永久冰冻
+- perma ~permanent
+
+## 2024.12.25
+
+|              | [Daily English Dictation 87](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=87) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | April fool                                                   |
+| My Ver.      | Go ahead. Yeah sure. xxxxxx                                  |
+
+- prank / præŋk / *n.*恶作剧，开玩笑；戏谑
+
+![cancellation matrix](https://cdn.jsdelivr.net/gh/zey9991/mdpic/image-20241228100427627.png)
+
+- 之前讲的s,n,l 不是单单这三个音，它们是一个家族的，如图中所示
+
+## 2024.12.24
+
+|              | [Daily English Dictation 86](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=86) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | Look, imagination feeds exploration. You have to imagine the possible before you can go and do it. |
+| My Ver.      | Look imagination feeds exploration. You have to imagine the possible before you can go and do it. |
+
+- submarine / ˌsʌbməˈriːn; ˈsʌbməriːn / *n.*潜艇，潜水艇；
+
+## 2024.12.23
+
+|              | [Daily English Dictation 85](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=85) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | **Well that**, I think, is the real **crux** of this issue.  |
+| My Ver.      | The lab i think is the real crack of this issue.             |
+
+- crux / krʌks / *n.*关键，症结；难题；十字架形，坩埚
+- crack / kræk /
+
+## 2024.12.22
+
+|              | [Daily English Dictation 84](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=84) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | Trying is having **the** intention to fail. You have to **scrap** that word from your **vocab**. Say you're gonna do it, you will. |
+| My Ver.      | Trying is having intention to fail. You have to scrape that word from your vol cap. Saying you are gonna do it, you will. |
+
+- vocab / ˈ vəʊkæb / 词汇（vocabulary）
+- scrap / skræp / 
+  *n.*（纸、布等的）碎片，小块；丝毫，一丁点；废品，废弃材料（=scrap metal）；吃剩的东西，残羹剩饭（scraps）；
+  *v.*（因不切实际而）放弃，抛弃（计划、体系）；把（旧机器、旧汽车等当）作废料处理，报废；<非正式>打架，吵架；激烈竞争
+- scrape / skreɪp /
+  *n.*擦伤，擦痕；刮擦，刮擦声；
+  *v.*（用小刀等）刮除；（使）刮擦；擦伤，刮坏；（使）发出刺耳的刮擦声；
+
 ## 2024.12.21
 
 |              | [Daily English Dictation 83](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=83) |
