@@ -1,11 +1,30 @@
 Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachshane) Daily English Dictation.
 
+## 2024.12.30
+
+|              | [Daily English Dictation 92](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=92) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | The **point** is, you should get to know a person first.  Then judge them. **You** should never judge a book by **its cover**. Judge **it** by **the amoun(t) of** pages. |
+| My Ver.      | The lab i think is the real crack of this issue.             |
+
+- 封面是cover而不是coverage😅
+
+## 2024.12.29
+
+|              | [Daily English Dictation 91](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=91) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | **My** bad. <br />Tell me you have **good** insurance. <br />Yep. **I've got "Allstate"**  <br />Really? |
+| My Ver.      | Not bad. Tell me you have car insurance. Yep. hopstick???  Really? |
+
+- my bad 我的错：表示承认自己犯了错误或做错了事情的一种道歉方式。
+- Allstate 好事达保险（美国最大的保险公司之一）
+
 ## 2024.12.28
 
 |              | [Daily English Dictation 90](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=90) |
 | ------------ | ------------------------------------------------------------ |
 | Correct Ver. | 1896 the first modern Oly**m**pic Game open  in **Athens**, Greece -- **land of** the ancient games -- **with** athletes **from** 14 countries. |
-| My Ver.      | The lab i think is the real crack of this issue.             |
+| My Ver.      |                                                              |
 
 - Olympics / əˌlɪmpɪks / *n.*奥林匹克运动会
 - Olympic Games 奥林匹克运动会
