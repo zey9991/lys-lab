@@ -1,11 +1,49 @@
 Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachshane) Daily English Dictation.
 
+## 2025.01.03
+
+|              | [Daily English Dictation 96](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=96) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | Hey, you got anything to eat?<br />Yeah. Try **these**.<br />I’**m not eating that** kid stuff.<br />Just try **them**. |
+| My Ver.      | Hey, you got anything to eat?<br />Yeah. Try this?<br />I don’t eat kids’ stuff.<br />Just try it. |
+
+- them的三种发音方式
+
+## 2025.01.02
+
+|              | [Daily English Dictation 95](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=95) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | Hello?<br />Oh **gee**, I can’t talk right now. Why don’t you give me your home number and I will call you later.<br />Oh I guess you don’t want people calling you at home. <br />Well now you know how I feel. |
+| My Ver.      | Hello?<br />Oh jez. I can’t talk right now. Why don’t you give me your home number and I will call you later.<br />Oh I guess you don’t want people calling you at home. <br />Well now you know how I feel. |
+
+- gee *int.*（表示惊奇、感动或气恼）哇，哎呀；
+- “Gee” 是对 “Jesus” 的委婉变体，类似的还有“jeez”。这些词被广泛用作感叹词，特别是在非正式或随意的场合。
+
+## 2025.01.01
+
+|              | [Daily English Dictation 94](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=94) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | It takes a lot of work. You have to work every day on it. And then that’s not the downside. There isn’t a downside, really. |
+| My Ver.      | It takes a lot of work. You have to work every day on it and then that’s not the downside. There isn’t a downside, really. |
+
+## 2024.12.31
+
+|              | [Daily English Dictation 93](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=93) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | I had it **in spades on both sides**. It **came** really natural to me. |
+| My Ver.      | I have it space from outside. It became really natural to me. |
+
+- it refers to musical talent or performing here.
+- in spades / ɪn speɪdz / 大量地、高度地、过度地，没有约束
+- **“In spades”** 的来源与扑克牌游戏中的 **“spades”**（黑桃）有关，特别是在桥牌或惠斯特等游戏中，黑桃通常是四种花色中 **“最高价值的花色”**。因此，这个短语逐渐衍生出“极多、非常、充足”的含义。
+- spade/ speɪd / *n.*锹，铲；（纸牌中的）黑桃（spades）
+
 ## 2024.12.30
 
 |              | [Daily English Dictation 92](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=92) |
 | ------------ | ------------------------------------------------------------ |
 | Correct Ver. | The **point** is, you should get to know a person first.  Then judge them. **You** should never judge a book by **its cover**. Judge **it** by **the amoun(t) of** pages. |
-| My Ver.      | The lab i think is the real crack of this issue.             |
+| My Ver.      | I forgot to save…                                            |
 
 - 封面是cover而不是coverage😅
 
@@ -24,7 +62,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 |              | [Daily English Dictation 90](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=90) |
 | ------------ | ------------------------------------------------------------ |
 | Correct Ver. | 1896 the first modern Oly**m**pic Game open  in **Athens**, Greece -- **land of** the ancient games -- **with** athletes **from** 14 countries. |
-| My Ver.      |                                                              |
+| My Ver.      | I forgot to save…                                            |
 
 - Olympics / əˌlɪmpɪks / *n.*奥林匹克运动会
 - Olympic Games 奥林匹克运动会
@@ -224,7 +262,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
   - For us, research and teaching **go** **hand** **in** **hand**.
   - Friendship and kindness **go** **hand** **in** **hand**.
 
-## 2024.12.9
+## 2024.12.09
 
 |              | [Daily English Dictation 71](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=71) |
 | ------------ | ------------------------------------------------------------ |
@@ -234,7 +272,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - opt/ ɑːpt / out of 选择退出：选择不参与或退出某项活动、计划或协议。
 - essentially: ~basically
 
-## 2024.12.8
+## 2024.12.08
 
 |              | [Daily English Dictation 70](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=70) |
 | ------------ | ------------------------------------------------------------ |
@@ -244,7 +282,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - bear 过去式bore或beared 过去分词borne或born或beared
 - burn 过去式burnt或burned过去分词burnt或burned
 
-## 2024.12.7
+## 2024.12.07
 
 |              | [Daily English Dictation 69](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=69) |
 | ------------ | ------------------------------------------------------------ |
@@ -253,14 +291,14 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 
 - 40 dollars and 28 cents (not percent)
 
-## 2024.12.6
+## 2024.12.06
 
 |              | [Daily English Dictation 68](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=68) |
 | ------------ | ------------------------------------------------------------ |
 | Correct Ver. | Stop it! Stop what? You are talking about me in Morse code. **But** You know what? **Joke's on** you **cuz** I know Morse code. |
 | My Ver.      | Stop it! Stop what? You are talking about me in Morse code. You know what? Joseph and you and I know Morse code. Ha! |
 
-## 2024.12.5
+## 2024.12.05
 
 |              | [Daily English Dictation 67](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=67) |
 | ------------ | ------------------------------------------------------------ |
@@ -271,7 +309,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - gulf是海湾，golf是高尔夫
 - Mexic**o** 墨西哥
 
-## 2024.12.4
+## 2024.12.04
 
 |              | [Daily English Dictation 66](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=66) |
 | ------------ | ------------------------------------------------------------ |
@@ -281,7 +319,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - statistically/ stəˈtɪstɪkli /
 - specifically/ spəˈsɪfɪkli /
 
-## 2024.12.3
+## 2024.12.03
 
 |              | [Daily English Dictation 65](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=65) |
 | ------------ | ------------------------------------------------------------ |
@@ -291,7 +329,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - Huckleberry Finn 费恩历险记（书名）
 - adventure/ ədˈventʃər / *n*.冒险（经历），奇遇；冒险的刺激，冒险欲
 
-## 2024.12.2
+## 2024.12.02
 
 |              | [Daily English Dictation 64](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=64) |
 | ------------ | ------------------------------------------------------------ |
@@ -302,7 +340,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - ketchup/ ˈketʃəp / 番茄酱
 - catchup/ ˈketʃəp / 番茄酱
 
-## 2024.12.1
+## 2024.12.01
 
 |              | [Daily English Dictation 63](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=63) |
 | ------------ | ------------------------------------------------------------ |
@@ -606,7 +644,7 @@ Notes:
 - sweeping/ ˈswiːpɪŋ / *adj*.范围广的，影响大的；过于笼统的；弧线的，弯曲的；包含丰富信息的；（投票等中的）大胜
 - faith **in** sth.
 
-## 2024.11.9
+## 2024.11.09
 
 | ✅            | [Daily English Dictation 40](https://www.bilibili.com/video/BV1U7411a7xG/?p=40&share_source=copy_web&vd_source=6d8bd82e43eb037a6071c4c220c1f666 ) |
 | ------------ | ------------------------------------------------------------ |
@@ -616,7 +654,7 @@ Notes:
 - there's a 
 - line 台词，话 ~quotation
 
-## 2024.11.8
+## 2024.11.08
 
 | ✅            | [Daily English Dictation 39](https://www.bilibili.com/video/BV1U7411a7xG/?p=39&share_source=copy_web&vd_source=6d8bd82e43eb037a6071c4c220c1f666 ) |
 | ------------ | ------------------------------------------------------------ |
