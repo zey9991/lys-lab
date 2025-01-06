@@ -1,5 +1,12 @@
 Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachshane) Daily English Dictation.
 
+## 2025.01.04
+
+|              | [Daily English Dictation 97](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=97) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | We **were** supposed to meet today, but I miss**ed** our appointment. Sorry. |
+| My Ver.      | We’re supposed to meet today, but I miss our appointment. Sorry. |
+
 ## 2025.01.03
 
 |              | [Daily English Dictation 96](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=96) |
