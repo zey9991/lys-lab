@@ -1,3 +1,6 @@
+在Lark上查看该表格：
+{% embed url="https://gsgmqpvuf85c.sg.larksuite.com/sheets/Fs9IsEIV8h7MiztF9JdlChWwghg" %}
+
 | 代币     | 属性                                | 生态               | 推特   | tg           | 官网                                  | 流通率 | 现价 / U | ATH / U | 市值  $  / B   | 上所情况 现货  | 合约      | 钱包地址分析                                           | 投资建议 1-10   |
 | -------- | ----------------------------------- | ------------------ | ------ | ------------ | ------------------------------------- | ------ | -------- | ------- | -------------- | -------------- | --------- | ------------------------------------------------------ | --------------- |
 | VIRTUAL  | 基础设施，agent的pumpfun            | ETH , BASE         | 151.3k | 22413 - 4534 | https://www.virtuals.io/              | 100%   | 4.2      | 5.07    | 4.23- 42亿     | bybit gate     | bn bybit  |                                                        | 7               |
@@ -12,6 +15,10 @@
 | PHA      | 基础设施，开发者平台，depin，云计算 | ETH,BSC,POL,ARB,OP | 133.8k | 11059 -324   | https://phala.network/                | 77%    | 0.34     | 1.41    | 0.26 - 2.6亿   | bn，ok，kraken | bn，bybit |                                                        | 7               |
 | SWARMS   | 框架，多 agent可能性                | SOL                | 21.1k  |              | https://swarms.world/                 | 100%   | 0.36     | 0.3942  | 0.36 - 3.6亿   | bitget gate    | gate      | 筹码第一不是大户，其余3-6，8-10均为不易分辨的大户      | 5               |
 | ACT      | MEME                                | SOL                | 42.5k  | 10128        | https://actsol.xyz/                   | 94.80% | 0.4      | 0.94    | 0.38 - 3.8 亿  | bn ok          | bn ok     | 筹码非常分散，炒过一波的社区币，很多二级接盘，无法分辨 | 6               |
+
+在Lark上查看此思维导图：
+
+{% embed url="https://gsgmqpvuf85c.sg.larksuite.com/sheets/Fs9IsEIV8h7MiztF9JdlChWwghg" %}
 
 - 概念
 
