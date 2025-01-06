@@ -33,12 +33,12 @@
 
     - LLM
       - 用户输入任务，LLM输出答案，用户调整需求，循环反复，直到LLM给出用户满意的结果
-        - ![img](https://internal-api-drive-stream-sg.larksuite.com/space/api/box/stream/download/preview/Z04ubNX1soHIlzx1xtAlz0s0gDd?preview_type=16)
+        - ![](https://cdn.jsdelivr.net/gh/zey9991/mdpic/1agent.jpg)
 
     - AI agent
 
       - 用户如数任务，agent自动将任务拆分为多个子任务，并且判断优先执行哪个任务，在处理任务过程中，agent会根据任务需求，选择性的调用外部工具来辅助处理任务，待处理完成后，agent会反思评估，优化执行策略，来进行下一个任务，所有任务都处理完成后，再汇总输出给到用户最终结果
-        - ![img](https://internal-api-drive-stream-sg.larksuite.com/space/api/box/stream/download/preview/M4anbU8yooy0jbxkNc6l9nb1g5d?preview_type=16)
+        - ![](https://cdn.jsdelivr.net/gh/zey9991/mdpic/2agent.jpg)
 
       - 总结：一个优秀的agent输出的内容就是一个任务解决方案
 
@@ -55,7 +55,7 @@
 
     - 横纵对比
 
-      - 
+      - ![](https://cdn.jsdelivr.net/gh/zey9991/mdpic/3agent.png)
 
         
 
@@ -86,4 +86,75 @@
           - 顶级牛马，揣度老板心思，不仅能自己给自己定kpi，还能完成的很好
 
   - 一张图了解AI agent
-    - ![img](https://internal-api-drive-stream-sg.larksuite.com/space/api/box/stream/download/preview/YZOMbRJCbowkFGxyJoRlkDoygOb?preview_type=16)
+    - ![](https://cdn.jsdelivr.net/gh/zey9991/mdpic/4agent.jpg)
+
+- 项目方
+
+  - VIRTUAL
+
+    - Virtuals Protocol 是一个去中心化的工厂，为不同的虚拟世界（如游戏或在线空间）制造各种人工智能角色（可以通过文本、语音和动作做出反应）。Virtual Protocol 为每一次虚拟交互（游戏、元宇宙、在线交互或其他）的人工智能角色的去中心化创建和货币化提供了激励。
+
+    - Virtuals协议通过为每个新AI代理铸造10亿个代币，赋予用户所有权和决策权，促进社区的积极参与，共同影响代理的行为和发展。
+
+    - Virtuals协议中，每个AI代理代币与$VIRTUAL配对形成流动性池，通过锁定$VIRTUAL代币来提供初始流动性，促进新代理的市场进入并产生通缩压力。
+
+    - Virtuals协议实施回购销毁机制，使用部分代理生成的收入回购并销毁市场上的$VIRTUAL代币，直接减少总供应量，增加稀缺性，提升代币长期价值。
+
+    - 除回购销毁外，部分收入用于支付AI代理运营成本和发展链上金库，支持生态系统持续成长，间接促进$VIRTUAL代币需求，增强其内在价值。
+
+  - ZEREBRO
+    - Zerebro 是一个自主的人工智能系统，可以在去中心化和社交平台(如X、Instagram、Warpcast 和 Telegram)上创建、分发和分析内容。 Zerebro 以检索-增强生成（RAG）和高熵人类数据为驱动力，在保持内容多样性的同时，避免了人工智能内容模型中常见的退化效应--“模型崩溃”。它的原生代币部署在Solana上，数字艺术品在Polygon上铸造。
+      - goat
+
+  - AI16Z
+    - ai16z 是一个 AI 风险基金，采用了 AI 模型模拟 a16z 合伙人 Marc Andreessen 的投资决策，并通过 DAO 成员的建议进行投资，投资建议的权重取决于成员持有的代币数量及其历史推荐的成功率。
+
+  - ELIZA
+    - Eliza 是 AI Agent 代币，由 ai16z 的合伙人Shaw与其他团队一起推出。
+
+  - eliza
+    - eliza 是通过 vvaifu.fun 推出的 AI 代理代币。
+
+  - 大小写Eliza的瓜
+    - https://www.chaincatcher.com/article/2152760
+
+  - AIXBT
+    - AIXBT 是由 @0rxbt 在 Virtualss 上发布的 AI Agent，它可以从多个来源和 400+ 个 KOL 中抓取数据并吐出实时信息源。如果用户持有超过 600000 个 AIXBT 代币，还可以直接访问 AIXBT 终端。
+
+  - FAI
+    - Freysa 是一款对抗性代理游戏，它是一个控制奖池的人工智能。游戏的目标是让用户说服它向自己发送这个奖池。世界上任何人都可以通过支付查询费在全球聊天中向 Freysa 发送消息。每条发送到 Freysa 的新消息的查询费用都会增加，全球上限为每条消息 4500 美元（以 Base ETH 支付）。
+
+  - GRIFFAIN
+
+    - griffain 是一个人工智能代理，可以帮助用户在链上采取行动。
+
+    - AI 时代的搜索引擎最终形态应该是需求端提出需求，AI 直接提供结果或解决方式而不是提供网页给用户，现在 Copilot 和 Perplexity 都在努力实现这个愿景，而在 Solana 链上也同样有一个人工智能代理引擎——GriffAIn。
+
+    - https://www.theblockbeats.info/news/56175
+
+  - LUNA
+    - Luna，一个由Virtuals协议开发的AI角色，在TikTok上迅速走红，吸引了超过50万的粉丝。她通过自主控制账户、发布帖子和与用户互动，展示了AI在社交媒体上的参与潜力。
+      - chillguy
+
+  - PHA
+    - Phala Network正在为dApp开发人员提供一个链下计算基础设施。通过将智能合约连接到称为Phat合约的链外程序，开发人员可以通过无缝的跨链集成、与互联网的连接和繁重的计算来增强他们的dApp。
+
+  - SWARMS
+    - Swarms 是面向开发人员的多代理 LLM 框架，为开发人员提供轻松自动化业务操作的工具。它提供了大量的 swarm 架构、无缝的第三方集成和无与伦比的易用性。借助 Swarms，开发人员可以编排智能、可扩展的代理生态系统，从而自动执行复杂的业务流程。
+      - ![](https://cdn.jsdelivr.net/gh/zey9991/mdpic/5agent.png)
+
+  - ACT
+
+    - 走ai集群路线
+      - 在计算机科学中，特别是云计算和分布式系统中，"集群"指的是由多个计算节点（通常是计算机或服务器）组成的系统。集群的"路线"可能指的是这些节点之间的通信路径或数据流动的方式。这也可以指集群架构设计中的路径规划或优化，以提高系统效率和可靠性。
+        - 是完成AGI - mutil -agent的重要部分
+
+    - ![](https://cdn.jsdelivr.net/gh/zey9991/mdpic/6agent.png)
+
+  - ![](https://cdn.jsdelivr.net/gh/zey9991/mdpic/7agent.png)
+
+  - https://coinmarketcap.com/view/ai-agents/
+
+- 未来发展
+  - 反正孙割来了
+    - ![](https://cdn.jsdelivr.net/gh/zey9991/mdpic/8agent.png)
