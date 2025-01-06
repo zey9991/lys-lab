@@ -9,6 +9,10 @@
 * [空投训练营](project/Airdrop.md)
 * [书与我之间](project/Book.md)
 
+## Public Lectures
+
+- [2501-AI Agent](<public_lecture/ai agent.md>)
+
 ## Research Reports
 
 * [2412-XRP](research\_report/2412-XRP/README.md)
