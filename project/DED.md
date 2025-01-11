@@ -1,13 +1,53 @@
 Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachshane) Daily English Dictation.
 
-## 2025.01.04
+## 2025-01-07
+
+|              | [Daily English Dictation 100](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=100) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | **Whether you’re new to** the **world of** paddling or a **seasoned veteran**. You’re sure to find this video paddling **guidebook** helpful in your quest to find new **and** exciting rivers to explore. |
+| My Ver.      | What do you know the word paddling. Worse and badruing???. You’re sure to find this video paddling helpful and impressed by new exciting rivers to explore. |
+
+- veteran/ ˈvetərən / *n.*老兵，退伍军人；经验丰富的人，老手 *adj.*经验丰富的，老练的；<英>古老的
+- seasoned/ ˈsiːznd / *adj.*富有经验的；调好味的
+- seasoned veterans 经验丰富的老手：指在某个领域或行业中经验丰富、技能熟练的人。
+- quest/ kwest / *n.*<文>（长久或辛勤的）寻求，探求；（中世纪传奇故事中骑士的）探险
+- in the quest to do; in the quest for sth.
+
+## 2025-01-06
+
+|              | [Daily English Dictation 99](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=99) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | It’s only the **mediocre pupil who does not** **surpass** his master, **Leonardo** writes. **And legend** has it, that **Verrocchio**, seeing Leonardo’s angel, never **painted** again. |
+| My Ver.      | It’s only the medio con pu not surprise his master. Lio nado writes. Unless he has it. Pinocco seeing lionado’s angel, never made it again. |
+
+- mediocre/ ˌmiːdiˈoʊkər /
+- surpass/ sərˈpæs /
+- Leonardo/ ˌliːoʊˈnɑːrdoʊ /
+- legend has it 传说有云：用于引出一个传说或神话故事，表示故事的来源是传说或民间传说。
+  **Legend** **has** **it** that the lake was formed by the tears of a god.
+  **Legend** **has** **it** that the whole village had been cursed by a witch.
+
+## 2025-01-05
+
+|              | [Daily English Dictation 98](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=98) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | The **cheetah** **excels at** **acceleration**. It’s the sports car in the **savannah**. |
+| My Ver.      | The cheater??? itself is the excellaration. It’s the sports car in the Savana. |
+
+- cheetah/ ˈtʃiːtə / 猎豹
+- acceleration/ əkˈseləreɪt /
+- excel/ ɪkˈsel /
+- itself/ ɪtˈself /
+- savannah/ səˈvænə / *n.*热带和亚热带草原，（非洲的）稀树草原
+
+## 2025-01-04
 
 |              | [Daily English Dictation 97](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=97) |
 | ------------ | ------------------------------------------------------------ |
 | Correct Ver. | We **were** supposed to meet today, but I miss**ed** our appointment. Sorry. |
 | My Ver.      | We’re supposed to meet today, but I miss our appointment. Sorry. |
 
-## 2025.01.03
+## 2025-01-03
 
 |              | [Daily English Dictation 96](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=96) |
 | ------------ | ------------------------------------------------------------ |
@@ -16,7 +56,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 
 - them的三种发音方式
 
-## 2025.01.02
+## 2025-01-02
 
 |              | [Daily English Dictation 95](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=95) |
 | ------------ | ------------------------------------------------------------ |
@@ -26,14 +66,14 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - gee *int.*（表示惊奇、感动或气恼）哇，哎呀；
 - “Gee” 是对 “Jesus” 的委婉变体，类似的还有“jeez”。这些词被广泛用作感叹词，特别是在非正式或随意的场合。
 
-## 2025.01.01
+## 2025-01-01
 
 |              | [Daily English Dictation 94](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=94) |
 | ------------ | ------------------------------------------------------------ |
 | Correct Ver. | It takes a lot of work. You have to work every day on it. And then that’s not the downside. There isn’t a downside, really. |
 | My Ver.      | It takes a lot of work. You have to work every day on it and then that’s not the downside. There isn’t a downside, really. |
 
-## 2024.12.31
+## 2024-12-31
 
 |              | [Daily English Dictation 93](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=93) |
 | ------------ | ------------------------------------------------------------ |
@@ -45,7 +85,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - **“In spades”** 的来源与扑克牌游戏中的 **“spades”**（黑桃）有关，特别是在桥牌或惠斯特等游戏中，黑桃通常是四种花色中 **“最高价值的花色”**。因此，这个短语逐渐衍生出“极多、非常、充足”的含义。
 - spade/ speɪd / *n.*锹，铲；（纸牌中的）黑桃（spades）
 
-## 2024.12.30
+## 2024-12-30
 
 |              | [Daily English Dictation 92](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=92) |
 | ------------ | ------------------------------------------------------------ |
@@ -54,7 +94,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 
 - 封面是cover而不是coverage😅
 
-## 2024.12.29
+## 2024-12-29
 
 |              | [Daily English Dictation 91](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=91) |
 | ------------ | ------------------------------------------------------------ |
@@ -64,7 +104,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - my bad 我的错：表示承认自己犯了错误或做错了事情的一种道歉方式。
 - Allstate 好事达保险（美国最大的保险公司之一）
 
-## 2024.12.28
+## 2024-12-28
 
 |              | [Daily English Dictation 90](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=90) |
 | ------------ | ------------------------------------------------------------ |
@@ -76,7 +116,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - Olympic *adj.*奥林匹克运动会的；古奥林匹亚的
 - Athens / ˈæθənz / *n.*雅典（希腊首都）
 
-## 2024.12.27
+## 2024-12-27
 
 |              | [Daily English Dictation 89](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=89) |
 | ------------ | ------------------------------------------------------------ |
@@ -86,7 +126,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - stray / streɪ / *v.*走失，迷路；走神，离题；*n.*走失（流浪）的动物；离群者，走散者；*adj.*（动物）走失的，流浪的；离散的，零落的；
 - compassion  *n.*同情，怜悯
 
-## 2024.12.26
+## 2024-12-26
 
 |              | [Daily English Dictation 88](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=88) |
 | ------------ | ------------------------------------------------------------ |
@@ -100,7 +140,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - permafrost / ˈpɜːrməfrɔːst / *n.*多年冻土；永久冻结带；永久冰冻
 - perma ~permanent
 
-## 2024.12.25
+## 2024-12-25
 
 |              | [Daily English Dictation 87](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=87) |
 | ------------ | ------------------------------------------------------------ |
@@ -113,7 +153,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 
 - 之前讲的s,n,l 不是单单这三个音，它们是一个家族的，如图中所示
 
-## 2024.12.24
+## 2024-12-24
 
 |              | [Daily English Dictation 86](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=86) |
 | ------------ | ------------------------------------------------------------ |
@@ -122,7 +162,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 
 - submarine / ˌsʌbməˈriːn; ˈsʌbməriːn / *n.*潜艇，潜水艇；
 
-## 2024.12.23
+## 2024-12-23
 
 |              | [Daily English Dictation 85](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=85) |
 | ------------ | ------------------------------------------------------------ |
@@ -132,7 +172,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - crux / krʌks / *n.*关键，症结；难题；十字架形，坩埚
 - crack / kræk /
 
-## 2024.12.22
+## 2024-12-22
 
 |              | [Daily English Dictation 84](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=84) |
 | ------------ | ------------------------------------------------------------ |
@@ -147,7 +187,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
   *n.*擦伤，擦痕；刮擦，刮擦声；
   *v.*（用小刀等）刮除；（使）刮擦；擦伤，刮坏；（使）发出刺耳的刮擦声；
 
-## 2024.12.21
+## 2024-12-21
 
 |              | [Daily English Dictation 83](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=83) |
 | ------------ | ------------------------------------------------------------ |
@@ -156,7 +196,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 
 - showy *adj*.显眼的，艳丽的；昂贵但俗气的
 
-## 2024.12.20
+## 2024-12-20
 
 |              | [Daily English Dictation 82](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=82) |
 | ------------ | ------------------------------------------------------------ |
@@ -174,7 +214,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 
 - The fact of the matter 事实真相：指某件事情的真实情况或真相。
 
-## 2024.12.19
+## 2024-12-19
 
 |              | [Daily English Dictation 81](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=81) |
 | ------------ | ------------------------------------------------------------ |
@@ -183,14 +223,14 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 
 - beaker/ ˈbiːkər / *n*.烧杯；大口杯
 
-## 2024.12.18
+## 2024-12-18
 
 |              | [Daily English Dictation 80](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=80) |
 | ------------ | ------------------------------------------------------------ |
 | Correct Ver. | Olive**s are** the gold **in Andalucia**. **Spain is** the world'**s** biggest **olive** oil producer and Andalucia accounts for 80% of Spanish oil. |
 | My Ver.      | Olive of the gold underneath Indianesia??? the world biggest oil producer and Indianesia accounts for 80% of Spanish oil. |
 
-## 2024.12.17
+## 2024-12-17
 
 |              | [Daily English Dictation 79](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=79) |
 | ------------ | ------------------------------------------------------------ |
@@ -199,7 +239,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 
 - stand firm 坚定立场：拒绝改变决定、立场等。
 
-## 2024.12.16
+## 2024-12-16
 
 |              | [Daily English Dictation 78](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=78) |
 | ------------ | ------------------------------------------------------------ |
@@ -208,7 +248,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 
 - cut off time 截止时间：指某项活动或任务必须在特定时间之前完成的时间点。
 
-## 2024.12.15
+## 2024-12-15
 
 |              | [Daily English Dictation 77](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=77) |
 | ------------ | ------------------------------------------------------------ |
@@ -217,7 +257,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 
 - limestone/ ˈlaɪmstoʊn / *n*.[岩] 石灰岩
 
-## 2024.12.14
+## 2024-12-14
 
 |              | [Daily English Dictation 76](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=76) |
 | ------------ | ------------------------------------------------------------ |
@@ -230,7 +270,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - vending concept means business idea
 - Sprinkle/ ˈsprɪŋk(ə)l / the name of the cupcake shop
 
-## 2024.12.13
+## 2024-12-13
 
 |              | [Daily English Dictation 75](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=75) |
 | ------------ | ------------------------------------------------------------ |
@@ -241,14 +281,14 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - Seahawks 海鹰队（西雅图美式足球球队）
 - seahawk *n*.海鹰，美国海鹰直升机
 
-## 2024.12.12
+## 2024-12-12
 
 |              | [Daily English Dictation 74](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=74) |
 | ------------ | ------------------------------------------------------------ |
 | Correct Ver. | 5.4 million children, children who are 8,9 and 10 years of age, who are **using**--are being used to mine with their bare hands. So you can **text and** play Angry Birds. |
 | My Ver.      | 5.4 million children who are 8,9 and 10 years of age, who are used, are being used to mine with their bare hands. So you can tax in play Angry Birds. |
 
-## 2024.12.11
+## 2024-12-11
 
 |              | [Daily English Dictation 73](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=73) |
 | ------------ | ------------------------------------------------------------ |
@@ -257,7 +297,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 
 - ever [ADV]You use **ever** after comparatives and superlatives to emphasize the degree to which something is true or when you are comparing a present situation with the past or the future. 以往任何时候 (用于形容词或副词的比较级和最高级之后)强调
 
-## 2024.12.10
+## 2024-12-10
 
 |              | [Daily English Dictation 72](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=72) |
 | ------------ | ------------------------------------------------------------ |
@@ -269,7 +309,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
   - For us, research and teaching **go** **hand** **in** **hand**.
   - Friendship and kindness **go** **hand** **in** **hand**.
 
-## 2024.12.09
+## 2024-12-09
 
 |              | [Daily English Dictation 71](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=71) |
 | ------------ | ------------------------------------------------------------ |
@@ -279,7 +319,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - opt/ ɑːpt / out of 选择退出：选择不参与或退出某项活动、计划或协议。
 - essentially: ~basically
 
-## 2024.12.08
+## 2024-12-08
 
 |              | [Daily English Dictation 70](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=70) |
 | ------------ | ------------------------------------------------------------ |
@@ -289,7 +329,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - bear 过去式bore或beared 过去分词borne或born或beared
 - burn 过去式burnt或burned过去分词burnt或burned
 
-## 2024.12.07
+## 2024-12-07
 
 |              | [Daily English Dictation 69](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=69) |
 | ------------ | ------------------------------------------------------------ |
@@ -298,14 +338,14 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 
 - 40 dollars and 28 cents (not percent)
 
-## 2024.12.06
+## 2024-12-06
 
 |              | [Daily English Dictation 68](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=68) |
 | ------------ | ------------------------------------------------------------ |
 | Correct Ver. | Stop it! Stop what? You are talking about me in Morse code. **But** You know what? **Joke's on** you **cuz** I know Morse code. |
 | My Ver.      | Stop it! Stop what? You are talking about me in Morse code. You know what? Joseph and you and I know Morse code. Ha! |
 
-## 2024.12.05
+## 2024-12-05
 
 |              | [Daily English Dictation 67](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=67) |
 | ------------ | ------------------------------------------------------------ |
@@ -316,7 +356,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - gulf是海湾，golf是高尔夫
 - Mexic**o** 墨西哥
 
-## 2024.12.04
+## 2024-12-04
 
 |              | [Daily English Dictation 66](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=66) |
 | ------------ | ------------------------------------------------------------ |
@@ -326,7 +366,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - statistically/ stəˈtɪstɪkli /
 - specifically/ spəˈsɪfɪkli /
 
-## 2024.12.03
+## 2024-12-03
 
 |              | [Daily English Dictation 65](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=65) |
 | ------------ | ------------------------------------------------------------ |
@@ -336,7 +376,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - Huckleberry Finn 费恩历险记（书名）
 - adventure/ ədˈventʃər / *n*.冒险（经历），奇遇；冒险的刺激，冒险欲
 
-## 2024.12.02
+## 2024-12-02
 
 |              | [Daily English Dictation 64](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=64) |
 | ------------ | ------------------------------------------------------------ |
@@ -347,7 +387,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - ketchup/ ˈketʃəp / 番茄酱
 - catchup/ ˈketʃəp / 番茄酱
 
-## 2024.12.01
+## 2024-12-01
 
 |              | [Daily English Dictation 63](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=63) |
 | ------------ | ------------------------------------------------------------ |
@@ -356,7 +396,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 
 - succumb / səˈkʌm / *v*.屈服，屈从；病情加重，死于（某疾病）
 
-## 2024.11.30
+## 2024-11-30
 
 |              | [Daily English Dictation 62](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=62) |
 | ------------ | ------------------------------------------------------------ |
@@ -375,7 +415,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 
   使用上基本没有区别，可以根据你习惯的英语版本来选择使用哪一个。
 
-## 2024.11.29
+## 2024-11-29
 
 |              | [Daily English Dictation 61](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=61) |
 | ------------ | ------------------------------------------------------------ |
@@ -386,7 +426,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - primetime *n*.黄金时段（晚间电视收视高峰期）
 - February/ ˈfebrueri / --> say it fast sounds like Feburary
 
-## 2024.11.28
+## 2024-11-28
 
 |              | [Daily English Dictation 60](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=60) |
 | ------------ | ------------------------------------------------------------ |
@@ -400,7 +440,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - freezing 感觉受冻的 E.g. "You must be freezing," she said.
 - epitome/ ɪˈpɪtəmi / *n*.典型，缩影；摘要，概要
 
-## 2024.11.27
+## 2024-11-27
 
 |              | [Daily English Dictation 59](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=59) |
 | ------------ | ------------------------------------------------------------ |
@@ -411,7 +451,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - can opener 开罐器
 - manual/ ˈmænjuəl /
 
-## 2024.11.26
+## 2024-11-26
 
 |              | [Daily English Dictation 58](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=58) |
 | ------------ | ------------------------------------------------------------ |
@@ -421,7 +461,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - holdup/ ˈhoʊldʌp / *n*. 延搁 A **holdup** is a delay. 
 - "visit" there ~chat/talk
 
-## 2024.11.25
+## 2024-11-25
 
 |              | [Daily English Dictation 57](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=57) |
 | ------------ | ------------------------------------------------------------ |
@@ -452,7 +492,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 | **例句**     | The cookies started to **crumble**. | The shirt was badly **crumpled**. |
 | **记忆方法** | **crumble** 和“碎（crumb）”联想     | **crumple** 和“皱（wrinkle）”联想 |
 
-## 2024.11.24
+## 2024-11-24
 
 | 😅            | [Daily English Dictation 56](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=56) |
 | :----------- | ------------------------------------------------------------ |
@@ -461,7 +501,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 
 - "around it" --> should be "on it"
 
-## 2024.11.23
+## 2024-11-23
 
 |              | [Daily English Dictation 55](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=55) |
 | ------------ | ------------------------------------------------------------ |
@@ -474,7 +514,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - late *adj*. 已故的
 - conundrum/ kəˈnʌndrəm / *n*.令人迷惑的难题；（尤指答案中含双关语的）谜语
 
-## 2024.11.22
+## 2024-11-22
 
 |              | [Daily English Dictation 54](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=54) |
 | ------------ | ------------------------------------------------------------ |
@@ -483,7 +523,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 
 - in and around 在周围：指在某个地点或区域的周围范围内。在内外：指在某个地点或区域内部和周围范围内。
 
-## 2024.11.21
+## 2024-11-21
 
 |              | [Daily English Dictation 53](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=53) |
 | ------------ | ------------------------------------------------------------ |
@@ -495,7 +535,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - in a tizzy --> angry, not used often
 - have none of 拒绝接受、同意或支持某事：指对某事物持否定态度，不接受、同意或支持。
 
-## 2024.11.20
+## 2024-11-20
 
 |              | [Daily English Dictation 52](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=52) |
 | ------------ | ------------------------------------------------------------ |
@@ -508,7 +548,7 @@ Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachs
 - drive [N-SING]A **drive** is a special effort made by a group of people for a particular purpose. 运动
 - Montgomery/ məntˈɡʌməri / *n*.蒙哥马利（姓氏）；蒙哥马利（英国郡名）
 
-## 2024.11.19
+## 2024-11-19
 
 | ✅            | [Daily English Dictation 51](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=51) |
 | ------------ | ------------------------------------------------------------ |
@@ -521,7 +561,7 @@ Notes:
 - patio/ ˈpætioʊ / *n*.露台；天井
 - porch/ pɔːrtʃ / *n*.门廊；<美>走廊，游廊
 
-## 2024.11.18
+## 2024-11-18
 
 | ✅            | [Daily English Dictation 50](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=50) |
 | ------------ | ------------------------------------------------------------ |
@@ -535,7 +575,7 @@ Notes:
 - bad press 公众批评：尤其是在媒体上出现时对某人声誉的损害。
 - has taken my fancy --> take one's fancy
 
-## 2024.11.17
+## 2024-11-17
 
 | ✅            | [Daily English Dictation 49](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=49) |
 | ------------ | ------------------------------------------------------------ |
@@ -547,7 +587,7 @@ Notes:
 - All aboard 上车了：这是一个呼喊乘客上火车或船的口号，表示即将出发。
 - the world's largest/leading...
 
-## 2024.11.16
+## 2024-11-16
 
 
 | ✅            | [Daily English Dictation 48](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=48) |
@@ -562,7 +602,7 @@ Notes:
 - stay mum  保持沉默：不说话或不透露任何信息。
 - mum *adj*.沉默的；守密的
 
-## 2024.11.15
+## 2024-11-15
 
 | ✅            | [Daily English Dictation 47](https://www.bilibili.com/video/BV1U7411a7xG/?p=47&share_source=copy_web&vd_source=6d8bd82e43eb037a6071c4c220c1f666 ) |
 | ------------ | ------------------------------------------------------------ |
@@ -575,7 +615,7 @@ Notes:
 - demanding/ dɪˈmændɪŋ / *adj*.费时费力的；苛刻的，难以满足的
 - creature comforts 舒适便利的物品和设施：人们在生活中所需的舒适和便利的物品和设施，例如温暖的床铺、柔软的毛巾、空调、电视等。
 
-## 2024.11.14
+## 2024-11-14
 
 | ✅            | [Daily English Dictation 46](https://www.bilibili.com/video/BV1U7411a7xG/?p=46&share_source=copy_web&vd_source=6d8bd82e43eb037a6071c4c220c1f666 ) |
 | ------------ | ------------------------------------------------------------ |
@@ -595,7 +635,7 @@ Notes:
 
 - meant/ ment / vs. mean/ miːn / vs.mint/ mɪnt /
 
-## 2024.11.13
+## 2024-11-13
 
 | ✅            | [Daily English Dictation 44](https://www.bilibili.com/video/BV1U7411a7xG/?p=44&share_source=copy_web&vd_source=6d8bd82e43eb037a6071c4c220c1f666 ) |
 | ------------ | ------------------------------------------------------------ |
@@ -613,7 +653,7 @@ Notes:
 - dunk shot 扣篮
 - anarchy/ ˈænərki / *n*.无政府状态；混乱，无秩序
 
-## 2024.11.12
+## 2024-11-12
 
 | ✅            | [Daily English Dictation 43](https://www.bilibili.com/video/BV1U7411a7xG/?p=43&share_source=copy_web&vd_source=6d8bd82e43eb037a6071c4c220c1f666 ) |
 | ------------ | ------------------------------------------------------------ |
@@ -623,7 +663,7 @@ Notes:
 - psychic/ ˈsaɪkɪk /*n*.通灵者；灵媒；巫师
 - fortune teller 算命师
 
-## 2024.11.11
+## 2024-11-11
 
 | ✅            | [Daily English Dictation 42](https://www.bilibili.com/video/BV1U7411a7xG/?p=42&share_source=copy_web&vd_source=6d8bd82e43eb037a6071c4c220c1f666 ) |
 | ------------ | ------------------------------------------------------------ |
@@ -638,7 +678,7 @@ Notes:
 - thistle/ ˈθɪs(ə)l / *n*.[植]蓟，一种绒毛植物
 - exclaim/ ɪkˈskleɪm / <> explain/ ɪkˈspleɪn /
 
-## 2024.11.10
+## 2024-11-10
 
 | ✅            | [Daily English Dictation 41](https://www.bilibili.com/video/BV1U7411a7xG/?p=41&share_source=copy_web&vd_source=6d8bd82e43eb037a6071c4c220c1f666 ) |
 | ------------ | ------------------------------------------------------------ |
@@ -651,7 +691,7 @@ Notes:
 - sweeping/ ˈswiːpɪŋ / *adj*.范围广的，影响大的；过于笼统的；弧线的，弯曲的；包含丰富信息的；（投票等中的）大胜
 - faith **in** sth.
 
-## 2024.11.09
+## 2024-11-09
 
 | ✅            | [Daily English Dictation 40](https://www.bilibili.com/video/BV1U7411a7xG/?p=40&share_source=copy_web&vd_source=6d8bd82e43eb037a6071c4c220c1f666 ) |
 | ------------ | ------------------------------------------------------------ |
@@ -661,7 +701,7 @@ Notes:
 - there's a 
 - line 台词，话 ~quotation
 
-## 2024.11.08
+## 2024-11-08
 
 | ✅            | [Daily English Dictation 39](https://www.bilibili.com/video/BV1U7411a7xG/?p=39&share_source=copy_web&vd_source=6d8bd82e43eb037a6071c4c220c1f666 ) |
 | ------------ | ------------------------------------------------------------ |
