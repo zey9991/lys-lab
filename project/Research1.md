@@ -46,7 +46,7 @@
 | 行业研报 | leesper6，Gryphsis Academy 学员                              | [万字解读并行 EVM ：如何突破区块链性能瓶颈？](https://mp.weixin.qq.com/s/DfABge5nww7snxSbV85l-A) |
 |          | Lawrence Lee, Mint Venture                                   | [以太坊转PoS在即：Staking赛道及代表项目深度解析 - Mint Ventures](https://research.mintventures.fund/2022/03/25/以太坊转pos在即：staking赛道及代表项目深度解析/) |
 | 宏观研报 | glassnode                                                    | [Resilience and Synchronicity](https://insights.glassnode.com/the-week-onchain-week-51-2024/) |
-|          | grayscale                                                    | [December 2024: Crypto Takes a Breather After Roaring Year](https://www.grayscale.com/research/market-commentary/december-2024-crypto-takes-a-breather-after-roaring-year)](https://www.grayscale.com/research/market-commentary/december-2024-crypto-takes-a-breather-after-roaring-year) |
+|          | grayscale                                                    | [December 2024: Crypto Takes a Breather After Roaring Year](https://www.grayscale.com/research/market-commentary/december-2024-crypto-takes-a-breather-after-roaring-year)|
 
 按写作的内容分：
 
