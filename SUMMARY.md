@@ -7,6 +7,10 @@
 * [英语特训营](project/English.md)
   * [每日英语听写](project/DED.md)
 * [空投训练营](project/Airdrop.md)
+* [投研实训营](project/Research.md)
+  * [1.初识项目研报](project/Research1.md)
+  * [2.项目研报写作框架](project/Research2.md)
+
 * [书与我之间](project/Book.md)
 
 ## Public Lectures
