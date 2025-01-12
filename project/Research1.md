@@ -5,7 +5,7 @@
 按面向的读者分：
 
 - **买方研报**：面向加密货币基金、机构投资者、甚至包括撸毛工作室等等；
-- **卖方研报**：由交易所、券商等提供。
+- **卖方研报**：由交易所、券商、资管平台、数据平台等等提供。
 
 按分析的对象分：
 
@@ -25,6 +25,39 @@
 - 学会深度分析，自然也就能够胜任跟踪报告和热点报告的撰写。
 
 > 注意：宏观分析方法与项目分析和行业分析有较大不同，有机会我们将另外单独开设一门课程讲解。
+
+### 各类研报举例
+
+按面向的读者分：
+
+|          | 作者                                                         | 主题                                                         |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 买方研报 | Alex Xu, Mint Venture                                        | [Covalent Network：去中心化基础设施赛道的遗珠 - Mint Ventures](https://research.mintventures.fund/2024/01/24/zh-covalent-network-the-hidden-gem-of-decentralized-infrastructure/) |
+|          | Lawrence Lee, Mint Venture                                   | [速览Hyperliquid：产品现状、经济模型及估值 - Mint Ventures](https://research.mintventures.fund/2024/12/31/zh-a-quick-overview-of-hyperliquid-current-product-status-economic-model-and-valuation/) |
+| 卖方研报 | Binance                                                      | [探索模因币的崛起之路](https://www.binance.com/zh-CN/research/analysis/understanding-the-rise-of-memecoins) |
+|          | [Kinji Steimetz, Messari](https://messari.io/research/kinji-steimetz) | [The Near-Term Outlook for Chain Abstraction: Part 1 \| Messari](https://messari.io/report/the-near-term-outlook-for-chain-abstraction-part-1) |
+
+按分析的对象分：
+
+|          | 作者                                                         | 主题                                                         |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 项目研报 | Alex Xu, Mint Venture                                        | [重新审视 Ethena：大跌 80% 后反弹，ENA 是否仍在低估击球区？ - 深潮TechFlow](https://www.techflowpost.com/article/detail_21307.html) |
+|          | [DeFi Man](https://chronicle.castlecapital.vc/authors/4aa28e4c-baef-464f-acf0-b91b5f4e38ea) & [Atomist](https://chronicle.castlecapital.vc/authors/4b9b3f10-ebd4-4f11-ac15-670423112ed7) | [Deciphering GMX V2: A Research Report (castlecapital.vc)](https://chronicle.castlecapital.vc/p/deciphering-gmx-v2-next-wave-decentralized-perps) |
+| 行业研报 | leesper6，Gryphsis Academy 学员                              | [万字解读并行 EVM ：如何突破区块链性能瓶颈？](https://mp.weixin.qq.com/s/DfABge5nww7snxSbV85l-A) |
+|          | Lawrence Lee, Mint Venture                                   | [以太坊转PoS在即：Staking赛道及代表项目深度解析 - Mint Ventures](https://research.mintventures.fund/2022/03/25/以太坊转pos在即：staking赛道及代表项目深度解析/) |
+| 宏观研报 | glassnode                                                    | [Resilience and Synchronicity](https://insights.glassnode.com/the-week-onchain-week-51-2024/) |
+|          | grayscale                                                    | [[December 2024: Crypto Takes a Breather After Roaring Year](https://www.grayscale.com/research/market-commentary/december-2024-crypto-takes-a-breather-after-roaring-year)](https://www.grayscale.com/research/market-commentary/december-2024-crypto-takes-a-breather-after-roaring-year) |
+
+按写作的内容分：
+
+|          | 作者                                                         | 主题                                                         |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 深度报告 | Elias201179，Gryphsis Academy 学员                           | [从 ETHLend 到 Aave V4 : 借贷龙头的生态建成计划](https://mp.weixin.qq.com/s/8LGS3diMT24ENsNr9xr0hQ) |
+|          | Alex Xu, Mint Venture                                        | [AI\DePIN\Sol生态三重光环加身：浅析发币在即的IO.NET - Mint Ventures](https://research.mintventures.fund/2024/04/08/zh-a-new-solana-based-ai-depin-project-a-brief-analysis-of-upcoming-tokenlaunch-io-net/) |
+| 跟踪报告 | [Matt Kreiser, Messari](https://messari.io/research/matt-kreiser) | [State of XRP Ledger Q3 2024 Messari](https://messari.io/report/state-of-xrp-ledger-q3-2024) |
+|          | [Matthew Nay, Messari](https://messari.io/research/matthew-nay) | [State of Solana Q3 2024 \| Messari](https://messari.io/report/state-of-solana-q3-2024) |
+| 热点速览 | Sui中文助手，Sui Network                                     | [盘点 2024 年 Sui 生态最受欢迎的项目 - 深潮TechFlow](https://www.techflowpost.com/article/detail_22616.html) |
+|          | papajams.eth                                                 | [速览 Farcaster 上的 ZK 生态全应用 - 深潮TechFlow](https://www.techflowpost.com/article/detail_22194.html) |
 
 ### 采用的资产分析方法
 
