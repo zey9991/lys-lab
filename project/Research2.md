@@ -19,7 +19,7 @@
 
 > JUMPENG，世链投研资深研究员。华中科技大学金融硕士，7年的行业经验，擅长Layer1、DeFi、NFT、Layer2、Gamefi等领域，调研项目2000+，产出500多篇深度研报。
 
-我们是在其Xterio的研报中第一次了解这位作者。随后我们发现，他的项目研报有很明显的结构化的特点。举例如下：
+我是在其Xterio的研报中第一次了解这位作者。随后我发现，他的项目研报有很明显的结构化的特点。举例如下：
 
 {% embed url="https://www.sohu.com/a/731051752_121635552" %}
 
@@ -205,7 +205,7 @@ Monad 是一条高性能 EVM 区块链，通过并行处理优化 EVM 的执行�
 
 这里，我们可以看看这位作者（JiaYi）对Monad社区成功原因的分析文章：
 
-{% embed url="https://foresightnews.pro/article/detail/44594" %}
+{% embed url="https://www.techflowpost.com/article/detail_20438.html" %}
 
 可以看到，这篇项目分析文章的“写作框架”（如果有）是：
 
@@ -296,12 +296,242 @@ xxx 成立背景
 
 ## 项目研报常见框架
 
-我们认为这种“叙事型”的研报的下限很低，上限也很高。表现为：
+我们认为“叙事型”的研报的下限很低，上限也很高。表现为：
 
 - 部分作品得出观点时缺乏明显逻辑支持，或是浮于表面，更像是在胡说八道；
 - 部分作品蕴含作者独特的见解和思考，阅读体验极佳，做到了内容和形式上的出彩。
 
 因此，我们更推荐初学者选定一个适合的写作框架练手，从“结构型”或是“混合型”研报入手。
+
+### 框架1：十维分析法
+
+> 该框架提出者：Treap, LYS Lab 联创
+
+这些维度分别是：
+
+- 技术维度
+
+  - 重大或独特的技术创新
+
+  - 白皮书是否有严谨的说明
+
+  - 可拓展性与泛化能力
+
+  - 安全审计与事故
+
+  - Github仓库近半年的更新频率
+
+- 产品维度
+
+  - 项目在做什么
+
+  - 用户体验
+
+  - 启动历时多久
+
+  - 竞品情况 是否同质化 或者fork另一个项目
+
+  - 区块链生态
+
+  - Roadmap
+
+- 团队维度
+
+  - 项目方是不是国人
+
+  - 团队成员，例如学历、经验、业内名声
+
+  - 之前的成功项目
+
+  - 团队规模与成立时间
+
+  - 有没有圈内大佬或知名机构站台背书
+
+- 财务维度
+
+  - 融资方（金主爸爸）牛不牛
+
+  - 目前的融资情况
+
+  - 商业模式
+
+- 社区维度
+
+  - 社交媒体账号更新频率
+
+  - 社区共识
+
+  - 社群热度
+
+  - 主要发言者
+
+  - 社区成员的语言、国籍、地理位置等特征 国内人炒还是国外人
+
+- 经济模型维度
+
+  - 什么时候发币，有没有发币意愿
+
+  - 代币分配 特别是社区的分配比例
+
+  - 代币解锁 是否通胀或者导致过重的抛压
+
+  - 激励机制能否吸引大量LP、矿工
+
+  - 治理机制是否有效
+
+- 市场维度
+
+  - 币价
+
+  - 筹码分布
+
+  - 近期走势
+
+  - 交易量或流动性
+
+- 情绪维度
+
+  - 宏观经济近况
+
+  - 近期市场情绪
+
+  - 公共讨论区热度
+
+- 操作维度
+
+  - 花费成本，包括机会成本
+
+  - 能否多开
+
+  - 预期多久能资金回笼  
+
+- 外生维度
+
+  - 除了前面的框架，有没有不落窠臼的潜在优势？记得拒绝偏见，保持开明的心态
+
+讲解原视频参见以下链接：
+
+{% embed url="https://www.bilibili.com/video/BV1ub421b7y5/?share_source=copy_web&vd_source=6d8bd82e43eb037a6071c4c220c1f666" %}
+
+我曾多次运用过此分析框架，完成了几份投研作品。这是我对该框架的一些个人看法：
+
+- 优点：
+  - 多维思考，角度全面，容易上手；
+  - 同时融合了基本面分析和技术分析。
+- 缺点：
+  - 完整分析下来耗时较长；
+  - 维度太多也可能导致重点不够突出，不容易抓住主要矛盾。
+
+以下是我应用了此框架完成的投研作品，可供各位读者参考。请读者注意，我并没有按部就班地完成十个维度的分析，而是突出了其中的几个维度，特别是产品维度、团队维度、财务维度、经济模型维度。
+
+{% embed url="https://lys-lab.gitbook.io/docs/research-reports/2407-symbiotic" %}
+
+{% embed url="https://lys-lab.gitbook.io/docs/research-reports/2408-gm-network" %}
+
+{% embed url="https://lys-lab.gitbook.io/docs/research-reports/2408-eoracle" %}
+
+{% embed url="https://lys-lab.gitbook.io/docs/research-reports/2408-xterio" %}
+
+### 框架2：Mint Ventures
+
+> Mint Ventures是由深度投研驱动的加密投资机构，也是Web3领域的长期价值投资者。我们致力于找到关于区块链商业与赛道的独特洞察，在全球范围内寻找和帮助优秀的Web3项目，与它们一起创造价值，共同推进WEB3发展。我们管理的风险基金横跨一二级市场，既会参与优秀早期项目的私募融资，也直接投资于二级市场。
+
+Mint Ventures是在华语圈有不俗影响力的一二级基金。我们与之并没有任何商业利益关系。但是我们研究认为，其下的投研作品具有非常高的学习价值，在此推荐给各位。
+
+虽然他们团队的投研作品的写作风格并不固定，但是大体的框架还是有的，例如这篇
+
+{% embed url="https://research.mintventures.fund/2024/01/24/zh-covalent-network-the-hidden-gem-of-decentralized-infrastructure/" %}
+
+```python
+报告要点 
+1.1 核心投资逻辑 
+1.2 主要风险 
+1.3 估值 
+2.项目基本情况 
+2.1业务定位 
+2.2业务逻辑 
+2.3业务情况 
+2.4 团队、融资和合作伙伴情况 
+2.5项目基本情况总结 
+3.通证模型 
+3.1代币总量和分配 
+3.2代币用例和需求 
+4.市场和竞争对手情况 
+4.1市场分层 
+4.2竞争对手对比 
+5.估值 
+6.风险 
+7.参考资料和致谢
+```
+
+以及这一篇
+
+{% embed url="https://research.mintventures.fund/2024/11/01/zh-revisiting-ethena-after-an-80-plunge-is-ena-still-positioned-in-the-undervalued-strike-zone/" %}
+
+```python
+引言
+1.业务水平：Ethena目前的核心业务情况
+1.1 Ethena的商业模式
+1.2 Ethena的核心业务数据
+2.未来业务展望：Ethena值得期待的叙事和未来发展
+3.估值水平：目前ENA的价格是否处在低估的击球区？
+3.1 定性分析
+3.2 定量对比
+总结
+参考资料和数据来源
+```
+
+和这一篇
+
+{% embed url="https://research.mintventures.fund/2024/12/02/zh-the-underrated-gem-of-solana-summer-is-metaplex-undervalued-amid-the-meme-frenzy/" %}
+
+```python
+1. 引言
+2. Metaplex 的业务定位和商业模式
+2.1 Metaplex的产品矩阵
+2.2 Metaplex 的商业模式
+2.3 Metaplex 的护城河
+3. Metaplex 业务数据：PMF被充分印证，核心数据强劲增长
+3.1 Metaplex 月活跃用户
+3.2 经协议铸造的资产数
+3.3 协议收入
+4. Metaplex 团队：接近 Solana 核心圈层的生态 OG
+5. MPLX：代币效用和估值水平
+5.1 代币基本信息
+5.2 代币效用
+5.3 协议估值
+5.4 潜在的推动因素和风险
+总结
+```
+
+还有近期的这一篇
+
+{% embed url="https://research.mintventures.fund/2024/12/31/zh-a-quick-overview-of-hyperliquid-current-product-status-economic-model-and-valuation/" %}
+
+```python
+1.引言
+2.Hyperliquid的业务速览
+2.1 衍生品交易所
+2.2 现货交易所
+2.3 HyperEVM
+3. Hyperliquid团队、代币经济模型和估值
+3.1 团队
+3.2 $HYPE 经济模型
+3.3 估值
+4. 风险
+```
+
+现在来总结一下，相较于十维分析法，我们认为Mint Ventures的写作范式有这些特点：
+
+- 轻技术、社区、情绪和操作；
+- 重业务/产品/商业模式、估值、经济模型和团队背景（与他们的投资理念契合）；
+- 如果其中有特别重要的部分，甚至可以直接单拿出来写，作为一个一级标题。
+
+以下是我依据这种思想完成的投研作品，供各位参考：
+
+{% embed url="https://lys-lab.gitbook.io/docs/research-reports/2412-xrp" %}
+
+
 
 
 
