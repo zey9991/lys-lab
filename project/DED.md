@@ -1,5 +1,37 @@
 Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachshane) Daily English Dictation.
 
+
+
+## 2025-01-10
+
+|              | [Daily English Dictation 103](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=103) |
+| ------------ | :----------------------------------------------------------- |
+| Correct Ver. | If people fail **a** test, you can do two things; you can make the people smarter or you can make the test easier. |
+| My Ver.      | If people fail in test, you can do two things: you can make the people smarter or you can make the test easier. |
+
+- flunk/ flʌŋk / *v*.未通过 (考试或课程) *n.*不及格；失败
+
+## 2025-01-09
+
+|              | [Daily English Dictation 102](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=102) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | That’s **right**! This weekend is **earth day**, not your birthday. Don’t get it twisted. **Earth day**! |
+| My Ver.      | That’s why this weekend is earth’s day, not your birthday. Don’t get it twisted. Earth’s day! |
+
+在这句话中，**"Earth Day"** 应该写成 **"Earth Day"** 而不是 **"Earth's Day"**。
+这是因为 **"Earth Day"** 是一个正式的节日名称，指的是全球庆祝环境保护的“地球日”。在这种情况下，"Earth" 是一个专有名词，表示“地球”，并且节日名称中不需要所有格（'s）。
+
+**"Earth's Day"** 通常表示“地球的日子”，这在语法上不太准确，因为“Earth Day”作为固定的节日名称已经广泛接受。
+
+## 2025-01-08
+
+|              | [Daily English Dictation 101](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=101) |
+| ------------ | ------------------------------------------------------------ |
+| Correct Ver. | Why not be safe? Why take **a** chance?                      |
+| My Ver.      | Why not be safe? Why take the chance?                        |
+
+- take a chance 冒险：指在不确定的情况下采取行动，尽管可能会有风险。抓住机会：指利用机会或时机来实现某事。
+
 ## 2025-01-07
 
 |              | [Daily English Dictation 100](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=100) |
