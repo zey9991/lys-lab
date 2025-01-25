@@ -1,6 +1,17 @@
 Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachshane) Daily English Dictation.
 
+## 2025-01-11
 
+|              | [Daily English Dictation 104](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=104) |
+| ------------ | :----------------------------------------------------------- |
+| Correct Ver. | OK, ready? <br />I’m ready. <br />1168… <br />You know what. **How about** **a** little phone number rhythm, huh? **you know**? **A little** Bom-bum-pa bum-pa, bum-pa. Got it? <br />I got it! Okay!1~yeah~6~yop~teen…<br />**I already** dial**ed a** 6. I can’t go back **in time** to **slip a** 1 **in**. |
+| My Ver.      | OK, ready? I’m ready. 1168… You know what. I get that little phone number  rhythm. Bum bm bm… Got it? I got it!1 6 teen? Are you going to dial the 6? I can’t go back to the type xxx one in. |
+
+- slip in 
+
+  悄悄加入：在没有警告或不明显的方式下，特指将某事物包含进去。
+
+  悄悄进入：悄悄地进入一个地方而不被注意到。
 
 ## 2025-01-10
 

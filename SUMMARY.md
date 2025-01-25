@@ -22,7 +22,11 @@
 
 - [2501-AI Agent](<public_lecture/ai agent.md>)
 
-## Research Reports
+## Macro
+
+* [2501-Macro Weekly](macro/macro1.md)
+
+## Micro
 
 * [2412-XRP](research\_report/2412-XRP/README.md)
 * [2411-DeSci](research\_report/2411-DeSci/README.md)
