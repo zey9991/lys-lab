@@ -79,7 +79,7 @@
 
 ## 赛道表现
 
-![](C:\Users\zey9991\Desktop\image-20250125154605992.png)
+![](https://cdn.jsdelivr.net/gh/zey9991/mdpic/image-20250125154605992.png)
 
 据Artemis数据，过去一周内涨幅的赛道从大到小依次包括：
 
@@ -171,16 +171,61 @@ TVL
 1. [华尔街见闻](https://wallstreetcn.com/calendar)
 2. [金十数据](https://www.jin10.com/)
 3. [Trading Economics](https://zh.tradingeconomics.com/united-states/government-bond-yield)
-4. [Coinglass](https://www.coinglass.com/)
-5. [BiTBO](https://charts.bitbo.io/mvrv/)
-6. [Artemis](https://app.artemisanalytics.com/sectors)
-7. [CoinMarketCap](https://coinmarketcap.com/)
-8. [DefiLlama](https://defillama.com/)
-9. [Tokenomist](https://tokenomist.ai/unlocks)
+4. [芝商所FedWatch工具 - CME Group](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html)
+5. [美国-FedWatch升降息概率 | MacroMicro 财经M平方](https://sc.macromicro.me/charts/77/probability-fed-rate-hike)
+6. [Coinglass](https://www.coinglass.com/)
+7. [BiTBO](https://charts.bitbo.io/mvrv/)
+8. [Artemis](https://app.artemisanalytics.com/sectors)
+9. [CoinMarketCap](https://coinmarketcap.com/)
+10. [DefiLlama](https://defillama.com/)
+11. [Tokenomist](https://tokenomist.ai/unlocks)
 
+# 指标说明
 
+以下是本报告中出现的部分关键指标的解释：
 
+## MVRV
 
+**MVRV指标**（Market Value to Realized Value）由数据分析公司**Glassnode**提出，并被广泛用于帮助投资者判断比特币的市场状态。
 
+**市场价值（Market Value，MV）**：即比特币在当前市场价格下的总市值。它是通过将比特币的流通量乘以当前市场价格来计算的。
 
+**已实现价值（Realized Value，RV）**：已实现价值是基于每个比特币最后一次转移时的价格（而非当前市场价格）来计算的总价值。也就是说，它反映了所有比特币在历史上转移过的价格加权的总和。该指标帮助识别比特币的“实际成本基础”，即持有者的平均购入成本。
 
+**MVRV比率**：就是市场价值与已实现价值之间的比率，计算公式如下：
+$$
+MVRV=\frac{市场价值}{已实现价值}
+$$
+
+- **MVRV > 1**：表示比特币市场价格高于已实现价格，即市场处于盈利状态，市场价值大于持有者的成本基础。
+- **MVRV < 1**：表示比特币市场价格低于已实现价格，意味着市场整体亏损，处于低估状态。
+
+**牛市逃顶区间（市场泡沫区间）**
+
+- **MVRV接近4或更高**：在历史上的几次牛市中，当MVRV接近4或更高时，比特币的价格往往会出现剧烈回调，或者进入长期的熊市区域。尤其是在价格的迅速上涨后，MVRV值的迅速飙升往往预示着市场即将达到顶点，投资者可能需要谨慎。
+- **MVRV > 3**：当MVRV超过3时，通常被视为市场过热的信号，这时比特币的市场价值远高于其实际价值。历史数据显示，MVRV值在3左右时，市场通常处于泡沫区域，价格可能过高，接近牛市的顶峰。
+
+![MVRV](https://cdn.jsdelivr.net/gh/zey9991/mdpic/image-20250126110731736.png)
+
+## MVRV-Z分数
+
+MVRV-Z分数通过将MVRV比率的偏离程度标准化，进一步帮助投资者识别比特币价格的过高或过低，以及潜在的顶部和底部。具体来说，MVRV-Z分数是通过以下公式计算的：
+$$
+\text{MVRV-Z分数}=\frac{\text{MVRV-MVRV的历史均值}}{\text{MVRV的标准差}}
+$$
+
+- **MVRV-Z分数 > 0**：表示市场价值偏高，相对于比特币的历史已实现价值，市场可能存在过度的泡沫。
+- **MVRV-Z分数 < 0**：表示市场价值偏低，市场可能处于低估状态。
+
+**牛市逃顶信号**
+
+- **MVRV-Z分数 > 6**：在某些情况下，MVRV-Z分数超过6时也会预示市场接近顶部。此时市场价值相对于已实现价值的偏离非常显著，极有可能导致价格回调。
+- 考虑到**MVRV-Z分数有随周期衰减的趋势**，我们认为**MVRV-Z分数 > 5** 是本轮牛市周期的危险信号
+
+![MVRV-Z score](https://cdn.jsdelivr.net/gh/zey9991/mdpic/image-20250126110646888.png)
+
+# 关于我们
+
+LYS Lab是一支专注于Web3领域投研、教育与交易的创新团队。我们的成员均来自中国大陆顶尖的985高校及Web3行业的精英。欢迎关注我们的官方推特[@LingyueSamaWeb3](https://x.com/LingyueSamaWeb3)和B站账号[@凌岳Sama](https://space.bilibili.com/2062296483?spm_id_from=333.337.0.0)。
+
+![](https://cdn.jsdelivr.net/gh/zey9991/mdpic/LYS%20Lab%E4%BB%8B%E7%BB%8D%E5%88%9D%E7%A8%BF_00.png)
