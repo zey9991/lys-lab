@@ -1,5 +1,37 @@
 Reply under X and check in with me!!!🥰From [@coachshane](https://x.com/coachshane) Daily English Dictation.
 
+## 2025-01-14
+
+|              | [Daily English Dictation 108](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=108) |
+| ------------ | :----------------------------------------------------------- |
+| Correct Ver. | When you can’t smoke, if you stand **and stare** out of the window on your own, you are anti-social **friendless** idiot. If you stand **and stare** out of the window on your own with a **cigarette**, you are fucking philosopher. |
+| My Ver.      | When you can’t smoke, if you stand there out of the window on your own, you are anti-social friendly idiot. If you stand there out of the window on your own with a cigerette, you are fucking philosopher. |
+
+- cigarette/ ˈsɪɡəret /
+- friendless/ ˈfrendləs /
+
+
+
+## 2025-01-13
+
+|              | [Daily English Dictation 107](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=107) |
+| ------------ | :----------------------------------------------------------- |
+| Correct Ver. | One of **his first** trips will be to the US for **a NATO summit**, where he will announce **he is** pulling **French troops** out of that **Afghanistan** by the end of the year. |
+| My Ver.      | One of the spur trip would be to the US tornado summer, where he would announce his pulling France true out of that ganerstand??? by the end of the year. |
+
+- NATO / ˈneɪtoʊ / 北大西洋公约组织（North Atlantic Treaty Organization）
+- Afghanistan/ æfˈɡænɪstæn / 阿富汗
+- troop/ truːp / vs. true/ truː /
+
+## 2025-01-12
+
+|              | [Daily English Dictation 105](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=105) |
+| ------------ | :----------------------------------------------------------- |
+| Correct Ver. | **Alright**, what’s your name.<br />I’m Karl **Fuentes**.<br />Karl with **a** “K”, correct?<br />Yep, Karl with **a** K.<br />Karl with a K, a **bird in** hand **is** worth<br />a million?<br />No. |
+| My Ver.      | Hello, what’s your name.<br />I’m Karl Qweencess.<br />Karl with the K, correct?<br />Yep, Karl with the K.<br />Karl with a K, a burden with hand was worth<br />a million?<br />No. |
+
+- a bird in hand is worth two in the bush
+
 ## 2025-01-11
 
 |              | [Daily English Dictation 104](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=fd015ccdec6337c64cc98064986a4512&p=104) |
