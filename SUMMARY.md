@@ -42,3 +42,9 @@
 ## Media Kit
 
 * [Logos & QR Codes](media-kit/logos.md)
+
+## Others
+
+- [顶级基金公司研报都写了什么？](research\_report/top/README.md)
+  - [ARK Invest Big Ideas 2025](<research\_report/top/ARK Invest Big Ideas 2025.md>)
+  - [Most People Have No Idea What's About To Happen" - Cathie Wood's Last WARNING](<research\_report/top/Cathie Wood1.md>)
