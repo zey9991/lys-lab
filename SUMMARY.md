@@ -24,6 +24,7 @@
 
 ## Macro
 
+* [2503-Macro Weekly](macro/macro3.md)
 * [2502-Macro Weekly](macro/macro2.md)
 * [2501-Macro Weekly](macro/macro1.md)
 
