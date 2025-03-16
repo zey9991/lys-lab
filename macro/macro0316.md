@@ -1,5 +1,5 @@
 > 日期：2025年3月16日
-> 负责人：[@0xPeyton404](https://x.com/0xPeyton404)，特别感谢@Neil以及@Airdirdy学员帮忙完成部分场内宏观的研究工作
+> 负责人：[@0xPeyton404](https://x.com/0xPeyton404)，特别感谢@Neil以及[@0xDirtyair](https://x.com/0xDirtyair)学员帮忙完成部分场内宏观的研究工作
 
 # 摘要
 
