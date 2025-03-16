@@ -311,5 +311,3 @@ Coinglass，BiTBO数据：
 LYS Lab是一支专注于Web3领域投研、教育与交易的创新团队。我们的成员均来自中国大陆顶尖的985高校及Web3行业的精英。欢迎关注我们的官方推特[@LingyueSamaWeb3](https://x.com/LingyueSamaWeb3)和B站账号[@凌岳Sama](https://space.bilibili.com/2062296483?spm_id_from=333.337.0.0)。
 
 ![](https://cdn.jsdelivr.net/gh/zey9991/mdpic/LYS%20Lab%E4%BB%8B%E7%BB%8D%E5%88%9D%E7%A8%BF_00.png)
-
-<img src="https://cdn.jsdelivr.net/gh/zey9991/mdpic/image-20250316103112064.png" style="zoom:33%;" />
