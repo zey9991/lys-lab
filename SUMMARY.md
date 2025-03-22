@@ -1,8 +1,8 @@
-# Table of contents
+# 导航
 
 * [LYS Lab](README.md)
 
-## Projects
+## 项目文档
 
 * [英语特训营](project/English.md)
   * [每日英语听写](project/DED.md)
@@ -18,21 +18,26 @@
   
 * [书与我之间](project/Book.md)
 
-## Public Lectures
+## 公开课程
 
 - [2501-AI Agent](<public_lecture/ai agent.md>)
 
-## Macro
+## 宏观周会
 
 * [2503-Macro Weekly](macro/macro0323.md)
   * [0316 Report](macro/macro0316.md)
   * [0309 Report](macro/macro0309.md)
   * [0302 Report](macro/macro0302.md)
-  
-* [2502-Macro Weekly](macro/macro2.md)
-* [2501-Macro Weekly](macro/macro1.md)
+* [Archived]()
+  * [2502-Macro Weekly](macro/macro2.md)
+  * [2501-Macro Weekly](macro/macro1.md)
 
-## Micro
+
+## 顶尖交易员的孤独低语 系列集
+
+- [001-Darryl Wang](interview/001.md)
+
+## 项目投研
 
 * [2412-XRP](research\_report/2412-XRP/README.md)
 * [2411-DeSci](research\_report/2411-DeSci/README.md)
@@ -45,13 +50,12 @@
 * [2408-PiggyPiggy](research\_report/2408-PiggyPiggy/README.md)
 * [2407-Symbiotic](research\_report/2407-Symbiotic/README.md)
 
-## Media Kit
+## 顶级基金公司研报都写了什么？
+
+- [ARK Invest Big Ideas 2025](<research\_report/top/ARK Invest Big Ideas 2025.md>)
+- [ARK Invest Big Ideas 2024](<research\_report/top/ARK Invest Big Ideas 2024.md>)
+- [Most People Have No Idea What's About To Happen" - Cathie Wood's Last WARNING](<research\_report/top/Cathie Wood1.md>)
+
+## 媒体工具
 
 * [Logos & QR Codes](media-kit/logos.md)
-
-## Others
-
-- [顶级基金公司研报都写了什么？](research\_report/top/README.md)
-  - [ARK Invest Big Ideas 2025](<research\_report/top/ARK Invest Big Ideas 2025.md>)
-  - [ARK Invest Big Ideas 2024](<research\_report/top/ARK Invest Big Ideas 2024.md>)
-  - [Most People Have No Idea What's About To Happen" - Cathie Wood's Last WARNING](<research\_report/top/Cathie Wood1.md>)
