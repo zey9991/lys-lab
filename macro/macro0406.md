@@ -1,5 +1,5 @@
 > 日期：2025年3月30日
-> 负责人：[@0xPeyton404](https://x.com/0xPeyton404)，@Neil，[@0xDirtyair](https://x.com/0xDirtyair)
+> 负责人：@Neil（场内宏观数据），[@0xDirtyair](https://x.com/0xDirtyair)(行业事件摘要)，[@0xPeyton404](https://x.com/0xPeyton404)（剩余其他部分）
 > 官方推特：[@LingyueSamaWeb3](https://x.com/LingyueSamaWeb3)
 > 免责声明：本报告中提及的“利多”、“利空”、“中性”等市场观点均由本次宏观周报负责人基于报告撰写时的信息独立判断，仅代表当时观点，具有主观性。不同投资者可能对同一事件有不同解读，本报告不构成任何投资建议或保证。加密货币及相关资产具有极高风险，价格波动剧烈，甚至可能归零。请投资者审慎评估自身风险承受能力，在作出任何投资决策前进行充分研究，并严格遵守相关法律法规。
 
