@@ -34,10 +34,10 @@
   * [2502-Macro Weekly](macro/macro2.md)
   * [2501-Macro Weekly](macro/macro1.md)
 
+## 市场观点
 
-## 顶尖交易员的孤独低语 系列集
-
-- [001-Darryl Wang](interview/001.md)
+- [2503-AUCTION 3月庄家逼空复盘](<market/2503-AUCTION.md>)
+- [2504-ACT4月愚人节闪崩逻辑复盘](<market/2504-ACT.md>)
 
 ## 项目投研
 
@@ -57,6 +57,10 @@
 - [ARK Invest Big Ideas 2025](<research\_report/top/ARK Invest Big Ideas 2025.md>)
 - [ARK Invest Big Ideas 2024](<research\_report/top/ARK Invest Big Ideas 2024.md>)
 - [Most People Have No Idea What's About To Happen" - Cathie Wood's Last WARNING](<research\_report/top/Cathie Wood1.md>)
+
+## 顶尖交易员的孤独低语 系列集
+
+- [001-Darryl Wang](interview/001.md)
 
 ## 媒体工具
 
