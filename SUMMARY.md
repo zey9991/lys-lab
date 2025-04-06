@@ -18,10 +18,6 @@
   
 * [书与我之间](project/Book.md)
 
-## 公开课程
-
-- [2501-AI Agent](<public_lecture/ai agent.md>)
-
 ## 宏观周会
 
 * [2504-Macro Weekly](macro/macro0406.md)
@@ -38,11 +34,12 @@
 
 - [2503-AUCTION 3月庄家逼空复盘](<market/2503-AUCTION.md>)
 - [2504-ACT4月愚人节闪崩逻辑复盘](<market/2504-ACT.md>)
+- [2501-AI Agent](<public_lecture/ai agent.md>)
+- [2411-DeSci](research\_report/2411-DeSci/README.md)
 
 ## 项目投研
 
 * [2412-XRP](research\_report/2412-XRP/README.md)
-* [2411-DeSci](research\_report/2411-DeSci/README.md)
 * [2411-ReflectionAI](research\_report/2411-ReflectionAI/README.md)
 * [2409-Monad](research\_report/2409-Monad/README.md)
 * [2408-Xterio](research\_report/2408-Xterio/README.md)
