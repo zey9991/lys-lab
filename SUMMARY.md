@@ -37,6 +37,11 @@
 - [2501-AI Agent](<public_lecture/ai agent.md>)
 - [2411-DeSci](research\_report/2411-DeSci/README.md)
 
+## 顶尖交易员的孤独低语 系列集
+
+- [002-Kelxyz](interview/002.md)
+- [001-Darryl Wang](interview/001.md)
+
 ## 项目投研
 
 * [2412-XRP](research\_report/2412-XRP/README.md)
@@ -54,10 +59,6 @@
 - [ARK Invest Big Ideas 2025](<research\_report/top/ARK Invest Big Ideas 2025.md>)
 - [ARK Invest Big Ideas 2024](<research\_report/top/ARK Invest Big Ideas 2024.md>)
 - [Most People Have No Idea What's About To Happen" - Cathie Wood's Last WARNING](<research\_report/top/Cathie Wood1.md>)
-
-## 顶尖交易员的孤独低语 系列集
-
-- [001-Darryl Wang](interview/001.md)
 
 ## 媒体工具
 
