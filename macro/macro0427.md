@@ -107,11 +107,11 @@
 
 - 4月27日，[芝商所FedWatch工具](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html)显示的条件会议概率如下表所示
 
-![image-20250427151030123](C:\Users\zey9991\AppData\Roaming\Typora\typora-user-images\image-20250427151030123.png)
+![image-20250427151030123](https://cdn.jsdelivr.net/gh/zey9991/mdpic/202504271712281.png)
 
 - 4月27日，[芝商所FedWatch工具](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html)显示的聚合会议概率如下表所示
 
-![image-20250427151044820](C:\Users\zey9991\AppData\Roaming\Typora\typora-user-images\image-20250427151044820.png)
+![image-20250427151044820](https://cdn.jsdelivr.net/gh/zey9991/mdpic/202504271712993.png)
 
 - 相比上周而言，**市场总体上保持2025年内降息4次的预期，但对于7月份进行第二次降息的预期已经有所减弱，相较之下市场对9月份进行第二次降息的共识增强**。
 
@@ -152,19 +152,19 @@
 
 ### 债券市场
 
-![usgg10yr_ind20250427](D:\Download from edge\usgg10yr_ind20250427.png)
+![usgg10yr_ind20250427](https://cdn.jsdelivr.net/gh/zey9991/mdpic/202504271712382.png)
 
 美国10年期国债收益率周五下跌约3个基点至4.29%，延续了周四近4个基点的跌幅。
 
 ### 股票市场
 
-![spx_ind20250427](D:\Download from edge\spx_ind20250427.png)
+![spx_ind20250427](https://cdn.jsdelivr.net/gh/zey9991/mdpic/202504271712877.png)
 
 美国股市周五收高，标志着连续第四个交易日上涨，主要受到科技巨头的强势推动。
 
 ### 外汇市场
 
-![dxy_cur20250427](D:\Download from edge\dxy_cur20250427.png)
+![dxy_cur20250427](https://cdn.jsdelivr.net/gh/zey9991/mdpic/202504271712786.png)
 
 周五，美元指数攀升至99.5以上。
 
@@ -226,7 +226,7 @@
 
 {% embed url="https://app.artemisanalytics.com/home" %}
 
-![image-20250427124531221](C:\Users\zey9991\AppData\Roaming\Typora\typora-user-images\image-20250427124531221.png)
+![image-20250427124531221](https://cdn.jsdelivr.net/gh/zey9991/mdpic/image-20250427124531221.png)
 
 据Artemis的4月27日数据：
 

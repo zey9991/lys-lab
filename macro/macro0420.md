@@ -99,11 +99,11 @@
 - 4月18日，2027年票委、旧金山联储主席戴利表示，她对2025年降息两次的市场预期感到安心，但通胀风险依然存在，美联储无迫切降息必要。尽管特朗普的关税政策增加了不确定性，但尚未影响到美国经济。她提到美联储缩表仍有空间，未来需在更长周期内维持偏紧政策。
 - 4月20日，CME FedWatch 工具显示的条件会议概率如下表所示
 
-![image-20250420143556331](C:\Users\zey9991\AppData\Roaming\Typora\typora-user-images\image-20250420143556331.png)
+![image-20250420143556331](https://cdn.jsdelivr.net/gh/zey9991/mdpic/image-20250420143556331.png)
 
 - 4月20日，CME FedWatch 工具显示的聚合会议概率如下表所示
 
-![image-20250420143638335](C:\Users\zey9991\AppData\Roaming\Typora\typora-user-images\image-20250420143638335.png)
+![image-20250420143638335](https://cdn.jsdelivr.net/gh/zey9991/mdpic/image-20250420143638335.png)
 
 - 相比上周而言，**市场对年内降息2次的预期稳步上升，但对年末可能出现的第3次甚至第4次降息的预期分歧增大**。
 
@@ -157,19 +157,19 @@
 
 ### 债券市场
 
-![usgg10yr_ind20250420](D:\Download from edge\usgg10yr_ind20250420.png)
+![usgg10yr_ind20250420](https://cdn.jsdelivr.net/gh/zey9991/mdpic/usgg10yr_ind20250420.png)
 
 周四，美国10年期国债收益率在连续三天下跌后升至4.3%以上。
 
 ### 股票市场
 
-![spx_ind20250420](D:\Download from edge\spx_ind20250420.png)
+![spx_ind20250420](https://cdn.jsdelivr.net/gh/zey9991/mdpic/spx_ind20250420.png)
 
 本周，道琼斯指数和纳斯达克指数均下跌2%，而标普500指数下跌1%。
 
 ### 外汇市场
 
-![dxy_cur20250420](D:\Download from edge\dxy_cur20250420.png)
+![dxy_cur20250420](https://cdn.jsdelivr.net/gh/zey9991/mdpic/dxy_cur20250420.png)
 
 周五美元维持在三年低点，交易活动依然低迷。
 
@@ -218,7 +218,7 @@
 截稿时，据CoinMarketCap和Coinglass数据：
 
 - 4月20日，加密市场总市值$2.70万亿，过去7天**上涨0%**
-- 4月20日，稳定币市值$2193亿，7日前数据为$2185.1亿，较7日前上升**0.36%**
+- 4月20日，稳定币市值\$2193亿，7日前数据为$2185.1亿，较7日前上升**0.36%**
 - 4月20日，BTC市值$1.69万亿，占比：62.79%，较7日前**上升0.53%**
 - 4月18日，除BTC和ETH以外前10大币种占比**20.74%**，前50大币种占比**25.60%**，前100大币种占比**27.96%**
   - 7日前数据为：前10大币种占比20.60%，现较7日前**上升0.68%**
@@ -231,7 +231,7 @@
 
 {% embed url="https://app.artemisanalytics.com/home" %}
 
-![image-20250420144513196](C:\Users\zey9991\AppData\Roaming\Typora\typora-user-images\image-20250420144513196.png)
+![image-20250420144513196](https://cdn.jsdelivr.net/gh/zey9991/mdpic/image-20250420144513196.png)
 
 据Artemis的4月20日数据：
 
