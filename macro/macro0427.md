@@ -188,11 +188,11 @@
 
 - 比特币现货ETF 4月21日-4月25日 **净流入约27.929亿美元**
 
-![img](https://gcnazug01mwa.feishu.cn/space/api/box/stream/download/asynccode/?code=OWRmNTBkZGEzNzgwNmUwZmI1MmYxYjBjNWNkNDRhNWZfTTNyS3dUbHk3WXFVSDhJbVExR3ZkallsZkdLUlpmQkxfVG9rZW46QlE1RmJ4OUg1bzROVjV4anZ3bGM1a3RjblVlXzE3NDU3MzgyMTc6MTc0NTc0MTgxN19WNA)
+![比特币现货ETF 4月21日-4月25日](https://cdn.jsdelivr.net/gh/zey9991/mdpic/%E6%AF%94%E7%89%B9%E5%B8%81%E7%8E%B0%E8%B4%A7ETF%204%E6%9C%8821%E6%97%A5-4%E6%9C%8825%E6%97%A5.PNG)
 
 - 以太坊现货ETF 4月21日-4月25日 **净流入约1.027亿美元**
 
-![img](https://gcnazug01mwa.feishu.cn/space/api/box/stream/download/asynccode/?code=NGVlMmFiMGZlZjJlMzM5N2FiYTU2ZjllNmNiYmUzYWNfM3dldmhNaWVkTTRwbTNjd2lGRzFzekZjaTZwOFJYT2pfVG9rZW46UGZISGJ6cVF6b3Y3YjR4aVl5SmNFZ0JYbjdmXzE3NDU3MzgyMTc6MTc0NTc0MTgxN19WNA)
+![以太坊现货ETF 4月21日-4月25日](https://cdn.jsdelivr.net/gh/zey9991/mdpic/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%8E%B0%E8%B4%A7ETF%204%E6%9C%8821%E6%97%A5-4%E6%9C%8825%E6%97%A5.PNG)
 
 ## 价格信号
 

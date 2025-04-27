@@ -191,13 +191,13 @@
 
 据Coinglass数据：
 
-- 比特币现货ETF 4月14日-4月18日 **净流入约(0.137)亿美元**
+- 比特币现货ETF 4月14日-4月18日 **净流入约0.137亿美元**
 
-![img](https://gcnazug01mwa.feishu.cn/space/api/box/stream/download/asynccode/?code=ODZmYzhhZDVmMWJkOWMyOTJkZTZhNGU0MjlhNTBmZWNfdEF0d2RKbkE2cDNVWHBIeTNsTE92YkNvWUtGWDdXcEpfVG9rZW46UThsWWJXTkpwb0g0WDd4WGE2WWNBRVdLbnhjXzE3NDUxMzE3Nzc6MTc0NTEzNTM3N19WNA)
+![比特币现货ETF 4月14日-4月18日](https://cdn.jsdelivr.net/gh/zey9991/mdpic/%E6%AF%94%E7%89%B9%E5%B8%81%E7%8E%B0%E8%B4%A7ETF%204%E6%9C%8814%E6%97%A5-4%E6%9C%8818%E6%97%A5.PNG)
 
 - 以太坊现货ETF 4月14日-4月18日 **净流出约(0.323)亿美元**
 
-![img](https://gcnazug01mwa.feishu.cn/space/api/box/stream/download/asynccode/?code=OTBmOTcxOTYwODAwNTFmYzhhMDQwMDkxZWM1ZjU3YzVfYnN0Y1JTUm52OWhtc1ZpSXdGbFoxYUpJOFpWeHJqYjFfVG9rZW46RnFpbWJTTHZtbzJZZUF4RVExcGN0VjB2bkxoXzE3NDUxMzE3Nzc6MTc0NTEzNTM3N19WNA)
+![以太坊现货ETF 4月14日-4月18日](https://cdn.jsdelivr.net/gh/zey9991/mdpic/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%8E%B0%E8%B4%A7ETF%204%E6%9C%8814%E6%97%A5-4%E6%9C%8818%E6%97%A5.PNG)
 
 ## 价格信号
 
