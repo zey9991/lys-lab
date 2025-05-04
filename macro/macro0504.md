@@ -275,11 +275,11 @@
 
 - 比特币现货ETF 4月28日-5月2日 🚀**净流入约18.051亿美元**
 
-![img](https://cdn.jsdelivr.net/gh/zey9991/mdpic/asynccode)
+![2592cc78-1f0b-461a-bc58-c50309387930](https://cdn.jsdelivr.net/gh/zey9991/mdpic/2592cc78-1f0b-461a-bc58-c50309387930.png)
 
 - 以太坊现货ETF 4月28日-5月2日 🚀**净流入约1.068亿美元**
 
-![img](https://cdn.jsdelivr.net/gh/zey9991/mdpic/asynccode)
+![ac89554f-ecc7-402c-9b33-28a6d9be2e27](https://cdn.jsdelivr.net/gh/zey9991/mdpic/ac89554f-ecc7-402c-9b33-28a6d9be2e27.png)
 
 ## 价格信号
 
