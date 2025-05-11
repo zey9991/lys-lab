@@ -21,7 +21,7 @@
 ## 宏观周会
 
 * [2505-Macro Weekly](macro/macro0511.md)
-  * [0420 Report](macro/macro0504.md)
+  * [0504 Report](macro/macro0504.md)
 
 * [Archived]()
   * [2504-Macro Weekly](macro/macro0427.md)
