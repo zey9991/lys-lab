@@ -64,11 +64,12 @@
 * [2408-PiggyPiggy](research\_report/2408-PiggyPiggy/README.md)
 * [2407-Symbiotic](research\_report/2407-Symbiotic/README.md)
 
-## 顶级基金公司研报都写了什么？
+## 参考资料
 
-- [ARK Invest Big Ideas 2025](<research\_report/top/ARK Invest Big Ideas 2025.md>)
-- [ARK Invest Big Ideas 2024](<research\_report/top/ARK Invest Big Ideas 2024.md>)
-- [Most People Have No Idea What's About To Happen" - Cathie Wood's Last WARNING](<research\_report/top/Cathie Wood1.md>)
+- [香港稳定币条例草案](<references/StablecoinsBill.md>)
+- [ARK Invest Big Ideas 2025](<references/ARK Invest Big Ideas 2025.md>)
+- [ARK Invest Big Ideas 2024](<references/ARK Invest Big Ideas 2024.md>)
+- [Most People Have No Idea What's About To Happen" - Cathie Wood's Last WARNING](<references/Cathie Wood1.md>)
 
 ## 媒体工具
 
