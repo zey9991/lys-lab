@@ -22,11 +22,12 @@
 
 * [周报介绍](macro/macrointro.md)
   
-* [2505-Macro Weekly](macro/macro20250531.md)
-  * [0511 Report](macro/macro20250511.md)
-  * [0504 Report](macro/macro20250504.md)
+* [本周报告](macro/macro20250607.md)
   
 * [往期报告]()
+  * [2505-Macro Weekly](macro/macro20250531.md)
+    * [0511 Report](macro/macro20250511.md)
+    * [0504 Report](macro/macro20250504.md)
   * [2504-Macro Weekly](macro/macro20250427.md)
     * [0420 Report](macro/macro20250420.md)
     * [0413 Report](macro/macro20250413.md)
