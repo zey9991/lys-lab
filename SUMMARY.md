@@ -22,7 +22,7 @@
 
 * [周报介绍](macro/macrointro.md)
   
-* [本周报告](macro/macro20250607.md)
+* [本周报告（最后更新于20250607）](macro/macro20250607.md)
   
 * [往期报告]()
   * [2505-Macro Weekly](macro/macro20250531.md)
