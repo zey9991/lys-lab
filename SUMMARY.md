@@ -22,10 +22,11 @@
 
 * [周报介绍](macro/macrointro.md)
   
-* [本周报告（最后更新于20250614）](macro/macro20250614.md)
+* [本周报告（最后更新于20250621）](macro/macro20250621.md)
   
 * [往期报告]()
   * [2506-宏观周报](macro/macro20250607.md)
+    * [0614报告](macro/macro20250614.md)
     * [0607 报告](macro/macro20250607.md)
   * [2505-宏观周报](macro/macro20250531.md)
     * [0511 报告](macro/macro20250511.md)
