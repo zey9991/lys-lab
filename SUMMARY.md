@@ -7,7 +7,7 @@
 * [英语特训营](project/English.md)
   * [每日英语听写](project/DED.md)
 * [空投训练营](project/Airdrop.md)
-* [投研实训营](project/ResearchRedirect.md)
+* [投研实训营](https://lys-lab.gitbook.io/web3-research-handbook)
   
 * [书与我之间](project/Book.md)
 
