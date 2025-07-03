@@ -7,14 +7,7 @@
 * [英语特训营](project/English.md)
   * [每日英语听写](project/DED.md)
 * [空投训练营](project/Airdrop.md)
-* [投研实训营](project/Research.md)
-  * [1.初识项目研报](project/Research1.md)
-  * [2.项目研报框架](project/Research2.md)
-  * [3.项目信息收集](project/Research3.md)
-  * [4.项目商业模式](project/Research4.md)
-  * [5.项目估值方法](project/Research5.md)
-  * [6.项目研报实战](project/Research6.md)
-  * [7.项目研报发布](project/Research7.md)
+* [投研实训营](project/ResearchRedirect.md)
   
 * [书与我之间](project/Book.md)
 
